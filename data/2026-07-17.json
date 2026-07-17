@@ -4,39 +4,39 @@
     {
       "name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "description_cn": "SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。",
+      "description_cn": "",
       "language": "Rust",
-      "stars": 15503,
+      "stars": 15515,
       "url": "https://github.com/xai-org/grok-build"
     },
     {
       "name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
-      "description_cn": "法典梦想皮肤",
+      "description_cn": "",
       "language": "JavaScript",
-      "stars": 8472,
+      "stars": 8474,
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
     },
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "description_cn": "gpt-5.6-sol 的 Codex CLI 越狱提示和测试包。针对gpt-5.6系列的Codex CLI破甲提示词与测试包。",
+      "description_cn": "",
       "language": "Python",
-      "stars": 1850,
+      "stars": 1851,
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
     },
     {
       "name": "pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "description_cn": "一种新的网络交互式视频开源格式，具有内置状态机、帧精确过渡和打包 Alpha 透明度。",
+      "description_cn": "",
       "language": "TypeScript",
-      "stars": 1146,
+      "stars": 1147,
       "url": "https://github.com/pixel-point/aval"
     },
     {
       "name": "littledivy/mimic",
       "description": "Intercept any app, then call it from Python like a library",
-      "description_cn": "拦截任何应用程序，然后像库一样从 Python 调用它",
+      "description_cn": "",
       "language": "Python",
       "stars": 1133,
       "url": "https://github.com/littledivy/mimic"
@@ -46,15 +46,15 @@
       "description": "",
       "description_cn": "",
       "language": "Rust",
-      "stars": 1047,
+      "stars": 1049,
       "url": "https://github.com/CluvexStudio/Aether"
     },
     {
       "name": "AlephAITech/WorkBuddyGuide",
       "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "description_cn": "一本通过实际工作流程掌握 WorkBuddy 的实用开源指南。开源的 WorkBuddy 实战蓝书皮：教程、真实工作流、技能、MCP、自动化与多智能体实践。",
+      "description_cn": "",
       "language": "Python",
-      "stars": 1042,
+      "stars": 1043,
       "url": "https://github.com/AlephAITech/WorkBuddyGuide"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "description_cn": "本地优先、零信任代理 IDE，用于可验证的自主软件开发。",
+      "description_cn": "",
       "language": "TypeScript",
       "stars": 832,
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
@@ -76,9 +76,9 @@
     {
       "name": "tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
-      "description_cn": "你的衣服，用 gpt-image 提取并组织。",
+      "description_cn": "",
       "language": "JavaScript",
-      "stars": 808,
+      "stars": 810,
       "url": "https://github.com/tandpfun/wardrobe"
     }
   ]
