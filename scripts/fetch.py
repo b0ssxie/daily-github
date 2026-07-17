@@ -2,7 +2,7 @@ import json
 import os
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
@@ -15,14 +15,17 @@ TRANSLATE_RETRY_DELAY = 1
 
 
 def fetch_trending(date_str):
-    after = f"created:>{date_str}"
+    since = f"created:>={date_str}"
     url = (
         "https://api.github.com/search/repositories"
-        f"?q={after}&sort=stars&order=desc&per_page=10"
+        f"?q={since}&sort=stars&order=desc&per_page=10"
     )
     req = Request(url)
     req.add_header("Accept", "application/vnd.github+json")
     req.add_header("User-Agent", "daily-github/1.0")
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        req.add_header("Authorization", f"Bearer {token}")
 
     try:
         with urlopen(req, timeout=30) as resp:
@@ -90,9 +93,10 @@ def write_index(dates):
 
 def main():
     today_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    print(f"[fetch] fetching trending repos for date: {today_utc}")
+    since_utc = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
+    print(f"[fetch] fetching trending repos since: {since_utc}")
 
-    projects = fetch_trending(today_utc)
+    projects = fetch_trending(since_utc)
     print(f"[fetch] got {len(projects)} projects")
 
     translate_projects(projects)
