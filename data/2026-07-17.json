@@ -6,7 +6,7 @@
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "",
       "language": "Rust",
-      "stars": 15515,
+      "stars": 15533,
       "url": "https://github.com/xai-org/grok-build"
     },
     {
@@ -14,7 +14,7 @@
       "description": "Codex Dream Skin",
       "description_cn": "",
       "language": "JavaScript",
-      "stars": 8474,
+      "stars": 8479,
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
     },
     {
@@ -38,7 +38,7 @@
       "description": "Intercept any app, then call it from Python like a library",
       "description_cn": "",
       "language": "Python",
-      "stars": 1133,
+      "stars": 1134,
       "url": "https://github.com/littledivy/mimic"
     },
     {
@@ -46,7 +46,7 @@
       "description": "",
       "description_cn": "",
       "language": "Rust",
-      "stars": 1049,
+      "stars": 1050,
       "url": "https://github.com/CluvexStudio/Aether"
     },
     {
@@ -78,7 +78,7 @@
       "description": "Your clothes, extracted and organized with gpt-image.",
       "description_cn": "",
       "language": "JavaScript",
-      "stars": 810,
+      "stars": 812,
       "url": "https://github.com/tandpfun/wardrobe"
     }
   ]
