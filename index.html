@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>开源日报</title>
+<style>
+:root {
+  --bg: #ffffff;
+  --bg-secondary: #f6f8fa;
+  --bg-card: #f6f8fa;
+  --text: #24292f;
+  --text-secondary: #57606a;
+  --text-muted: #8b949e;
+  --link: #0969da;
+  --border: #d0d7de;
+  --tag-bg: #ddf4ff;
+  --tag-text: #0969da;
+  --sidebar-hover: #f3f4f6;
+  --sidebar-active-bg: #ddf4ff;
+  --sidebar-active-text: #0969da;
+  --shadow: rgba(140,149,159,0.15);
+  --card-hover-shadow: rgba(140,149,159,0.2);
+}
+
+[data-theme="dark"] {
+  --bg: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-card: #161b22;
+  --text: #c9d1d9;
+  --text-secondary: #8b949e;
+  --text-muted: #484f58;
+  --link: #58a6ff;
+  --border: #30363d;
+  --tag-bg: #1f6feb33;
+  --tag-text: #58a6ff;
+  --sidebar-hover: #1c2128;
+  --sidebar-active-bg: #1f6feb33;
+  --sidebar-active-text: #58a6ff;
+  --shadow: transparent;
+  --card-hover-shadow: rgba(1,4,9,0.4);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Noto Sans, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  transition: background .15s, color .15s;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.header {
+  position: sticky; top: 0; z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 16px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.header h1 {
+  font-size: 20px; font-weight: 600;
+  display: flex; align-items: center; gap: 8px;
+}
+.theme-toggle {
+  background: none; border: 1px solid var(--border); border-radius: 6px;
+  padding: 6px 12px; cursor: pointer; font-size: 14px;
+  color: var(--text-secondary); transition: .15s;
+}
+.theme-toggle:hover { background: var(--bg-secondary); }
+
+.layout {
+  display: flex; min-height: calc(100vh - 57px);
+}
+
+.sidebar {
+  width: 220px; flex-shrink: 0;
+  border-right: 1px solid var(--border);
+  padding: 16px 0;
+}
+.sidebar-label {
+  padding: 0 16px 8px; font-size: 12px; font-weight: 600;
+  color: var(--text-muted); text-transform: uppercase; letter-spacing: .05em;
+}
+.sidebar-list { list-style: none; }
+.sidebar-item {
+  padding: 6px 16px; cursor: pointer; font-size: 14px;
+  color: var(--text-secondary); transition: .1s;
+  border-left: 3px solid transparent;
+}
+.sidebar-item:hover { background: var(--sidebar-hover); }
+.sidebar-item.active {
+  color: var(--sidebar-active-text); font-weight: 600;
+  background: var(--sidebar-active-bg);
+  border-left-color: var(--sidebar-active-text);
+}
+.sidebar-item.disabled { color: var(--text-muted); cursor: not-allowed; }
+
+.main {
+  flex: 1; padding: 24px 32px; max-width: 960px;
+}
+.main-header {
+  margin-bottom: 20px; padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+.main-header h2 { font-size: 18px; font-weight: 600; }
+.main-header .subtitle { font-size: 13px; color: var(--text-secondary); margin-top: 2px; }
+
+.empty-state {
+  text-align: center; padding: 80px 20px; color: var(--text-secondary);
+}
+.empty-state p { font-size: 16px; }
+
+.card {
+  display: block; background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 6px; padding: 16px; margin-bottom: 12px;
+  transition: box-shadow .15s; cursor: pointer;
+}
+.card:hover {
+  box-shadow: 0 1px 8px var(--card-hover-shadow); text-decoration: none;
+}
+.card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+.card-rank {
+  font-size: 12px; font-weight: 600; color: var(--text-muted);
+  min-width: 28px;
+}
+.card-name { font-size: 16px; font-weight: 600; color: var(--link); }
+.card-stars {
+  margin-left: auto; font-size: 13px; color: var(--text-secondary);
+  white-space: nowrap;
+}
+.card-desc-cn { font-size: 15px; color: var(--text); margin-bottom: 2px; }
+.card-desc-en {
+  font-size: 12px; color: var(--text-muted); margin-bottom: 8px;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-meta { display: flex; align-items: center; gap: 8px; }
+.lang-tag {
+  font-size: 12px; padding: 1px 8px; border-radius: 12px;
+  background: var(--tag-bg); color: var(--tag-text); font-weight: 500;
+}
+
+.footer {
+  text-align: center; padding: 24px; font-size: 12px; color: var(--text-muted);
+  border-top: 1px solid var(--border);
+}
+
+@media (max-width: 768px) {
+  .layout { flex-direction: column; }
+  .sidebar {
+    width: 100%; border-right: none; border-bottom: 1px solid var(--border);
+    padding: 8px 0;
+  }
+  .sidebar-list { display: flex; overflow-x: auto; padding: 0 12px; gap: 2px; }
+  .sidebar-item {
+    white-space: nowrap; padding: 6px 12px; border-left: none;
+    border-bottom: 2px solid transparent;
+  }
+  .sidebar-item.active { border-left: none; border-bottom-color: var(--sidebar-active-text); }
+  .main { padding: 16px; }
+  .card-top { flex-wrap: wrap; }
+}
+</style>
+</head>
+<body>
+
+<header class="header">
+  <h1>
+    <span style="font-size:22px">&#127783;</span>
+    开源日报
+  </h1>
+  <button class="theme-toggle" id="themeToggle" aria-label="切换主题">&#127769; 深色模式</button>
+</header>
+
+<div class="layout">
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-label">历史日期</div>
+    <ul class="sidebar-list" id="dateList">
+      <li class="empty-state" style="padding:16px;border:none;font-size:13px">加载中...</li>
+    </ul>
+  </nav>
+  <main class="main" id="mainContent">
+    <div class="empty-state" id="emptyState">
+      <p>数据生成中，请稍后访问</p>
+    </div>
+    <div id="dayContent" style="display:none">
+      <div class="main-header">
+        <h2 id="dayTitle"></h2>
+        <p class="subtitle" id="daySubtitle"></p>
+      </div>
+      <div id="projectList"></div>
+    </div>
+  </main>
+</div>
+
+<footer class="footer">
+  每日自动更新 &middot; 数据来自 GitHub API
+</footer>
+
+<script>
+(function() {
+  const STORAGE_KEY = 'daily_github_theme';
+
+  function getPreferredTheme() {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    if (stored === 'dark' || stored === 'light') return stored;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  function setTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem(STORAGE_KEY, theme);
+    const btn = document.getElementById('themeToggle');
+    if (btn) btn.innerHTML = theme === 'dark' ? '&#127774; 浅色模式' : '&#127769; 深色模式';
+  }
+
+  setTheme(getPreferredTheme());
+
+  document.getElementById('themeToggle').addEventListener('click', function() {
+    const current = document.documentElement.getAttribute('data-theme');
+    setTheme(current === 'dark' ? 'light' : 'dark');
+  });
+
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    if (!localStorage.getItem(STORAGE_KEY)) {
+      setTheme(e.matches ? 'dark' : 'light');
+    }
+  });
+
+  let allDates = [];
+  let currentDate = null;
+
+  function formatDate(str) {
+    const d = new Date(str + 'T00:00:00');
+    return d.getFullYear() + '年' + (d.getMonth() + 1) + '月' + d.getDate() + '日';
+  }
+
+  function formatStars(n) {
+    if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+    return String(n);
+  }
+
+  function renderSidebar() {
+    const list = document.getElementById('dateList');
+    if (!allDates.length) {
+      list.innerHTML = '<li class="empty-state" style="padding:16px;border:none;font-size:13px">暂无数据</li>';
+      return;
+    }
+    list.innerHTML = allDates.map(d => {
+      let cls = 'sidebar-item';
+      if (d === currentDate) cls += ' active';
+      return '<li class="' + cls + '" data-date="' + d + '">' + d.replace(/^\d{4}-/, '').replace(/-/, '/') + '</li>';
+    }).join('');
+  }
+
+  function renderDay(dateStr) {
+    currentDate = dateStr;
+    renderSidebar();
+    const dayContent = document.getElementById('dayContent');
+    const emptyState = document.getElementById('emptyState');
+
+    if (!dateStr) {
+      dayContent.style.display = 'none';
+      emptyState.style.display = '';
+      return;
+    }
+
+    emptyState.style.display = 'none';
+    dayContent.style.display = '';
+    document.getElementById('dayTitle').textContent = '\uD83D\uDCC5 ' + formatDate(dateStr);
+
+    const list = document.getElementById('projectList');
+    list.innerHTML = '<p style="color:var(--text-secondary);padding:20px 0">加载中...</p>';
+
+    fetch('data/' + dateStr + '.json')
+      .then(function(r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function(data) {
+        var projects = data.projects;
+        if (!projects || !projects.length) {
+          list.innerHTML = '<div class="empty-state" style="padding:40px 20px"><p>今日暂无值得关注的新项目</p></div>';
+          return;
+        }
+        list.innerHTML = projects.map(function(p, i) {
+          var stars = formatStars(p.stars);
+          var langTag = p.language ? '<span class="lang-tag">' + p.language + '</span>' : '';
+          var enDesc = p.description ? '<div class="card-desc-en">' + escapeHtml(p.description) + '</div>' : '';
+          var cnDesc = p.description_cn ? '<div class="card-desc-cn">' + escapeHtml(p.description_cn) + '</div>' : '';
+          return '<a class="card" href="' + p.url + '" target="_blank" rel="noopener">' +
+            '<div class="card-top">' +
+              '<span class="card-rank">#' + (i + 1) + '</span>' +
+              '<span class="card-name">' + escapeHtml(p.name) + '</span>' +
+              '<span class="card-stars">&#11088; ' + stars + '</span>' +
+            '</div>' +
+            cnDesc +
+            enDesc +
+            '<div class="card-meta">' + langTag + '</div>' +
+          '</a>';
+        }).join('');
+        document.getElementById('daySubtitle').textContent = '共 ' + projects.length + ' 个项目';
+      })
+      .catch(function() {
+        list.innerHTML = '<div class="empty-state" style="padding:40px 20px"><p>数据暂不可用</p></div>';
+      });
+  }
+
+  function escapeHtml(s) {
+    var div = document.createElement('div');
+    div.appendChild(document.createTextNode(s));
+    return div.innerHTML;
+  }
+
+  document.getElementById('sidebar').addEventListener('click', function(e) {
+    var item = e.target.closest('.sidebar-item');
+    if (!item || item.classList.contains('disabled')) return;
+    renderDay(item.getAttribute('data-date'));
+  });
+
+  fetch('data/index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(index) {
+      allDates = index.dates || [];
+      renderSidebar();
+      if (allDates.length) renderDay(allDates[0]);
+    })
+    .catch(function() {
+      document.getElementById('dateList').innerHTML =
+        '<li class="empty-state" style="padding:16px;border:none;font-size:13px">加载失败</li>';
+    });
+})();
+</script>
+</body>
+</html>
