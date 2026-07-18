@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-18",
+  "projects": [
+    {
+      "name": "xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 16630,
+      "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 8755,
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    },
+    {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1890,
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
+    },
+    {
+      "name": "pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1164,
+      "url": "https://github.com/pixel-point/aval"
+    },
+    {
+      "name": "littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1149,
+      "url": "https://github.com/littledivy/mimic"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1144,
+      "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "description": "",
+      "description_cn": "",
+      "language": "Dockerfile",
+      "stars": 914,
+      "url": "https://github.com/x4gKing/Marzban-Panel"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 905,
+      "url": "https://github.com/tandpfun/wardrobe"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 833,
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 789,
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
+    }
+  ]
+}
