@@ -16,7 +16,7 @@ index.html  (served by GitHub Pages)
 
 scripts/fetch.py  (run by .github/workflows/daily.yml)
   ├─ GitHub Search API  →  trending repos (past 7 days, top 10 by most stars)
-  ├─ googletrans        →  EN → zh-CN translation
+  ├─ deep-translator    →  EN → zh-CN translation
   ├─ writes data/{today}.json
   └─ updates data/index.json
 ```
@@ -30,7 +30,7 @@ scripts/fetch.py  (run by .github/workflows/daily.yml)
 
 - **Fetch data locally (one-shot):**
   ```
-  pip install googletrans==4.0.0rc1
+  pip install deep-translator
   python scripts/fetch.py
   ```
   Requires `GITHUB_TOKEN` env var (optional; unauthenticated works within rate limits).
@@ -47,7 +47,7 @@ scripts/fetch.py  (run by .github/workflows/daily.yml)
 
 ## Translation gotchas
 
-- `googletrans==4.0.0rc1` pinned in the workflow. The library can fail silently with network errors; the script handles retry (2 attempts) and leaves `description_cn` empty on failure rather than crashing.
+- `deep-translator` pinned in the workflow. The library can fail silently with network errors; the script handles retry (2 attempts) and leaves `description_cn` empty on failure rather than crashing.
 - Translation is best-effort — check `description_cn` presence before displaying.
 
 ## Frontend quirks

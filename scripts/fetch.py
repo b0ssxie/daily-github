@@ -52,16 +52,15 @@ def translate_text(text):
     if not text or not text.strip():
         return ""
     try:
-        from googletrans import Translator
+        from deep_translator import GoogleTranslator
     except ImportError:
-        print("[translate] googletrans not installed, skipping translation", file=sys.stderr)
+        print("[translate] deep-translator not installed, skipping translation", file=sys.stderr)
         return ""
 
     for attempt in range(TRANSLATE_MAX_RETRIES + 1):
         try:
-            translator = Translator()
-            result = translator.translate(text, src="en", dest="zh-cn")
-            return result.text or ""
+            result = GoogleTranslator(source="en", target="zh-CN").translate(text)
+            return result or ""
         except Exception as e:
             if attempt < TRANSLATE_MAX_RETRIES:
                 print(f"[translate] attempt {attempt + 1} failed: {e}, retrying...", file=sys.stderr)
