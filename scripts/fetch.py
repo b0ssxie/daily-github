@@ -18,7 +18,7 @@ def fetch_trending(date_str):
     since = f"created:>={date_str}"
     url = (
         "https://api.github.com/search/repositories"
-        f"?q={since}&sort=created&order=desc&per_page=10"
+        f"?q={since}&sort=stars&order=desc&per_page=10"
     )
     req = Request(url)
     req.add_header("Accept", "application/vnd.github+json")

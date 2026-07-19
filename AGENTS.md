@@ -15,7 +15,7 @@ index.html  (served by GitHub Pages)
   └─ fetches data/{date}.json  →  project cards
 
 scripts/fetch.py  (run by .github/workflows/daily.yml)
-  ├─ GitHub Search API  →  trending repos (past 7 days, top 10 by most recently created)
+  ├─ GitHub Search API  →  trending repos (past 7 days, top 10 by most stars)
   ├─ googletrans        →  EN → zh-CN translation
   ├─ writes data/{today}.json
   └─ updates data/index.json
