@@ -4,17 +4,17 @@
     {
       "name": "xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "description_cn": "",
+      "description_cn": "SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。",
       "language": "Rust",
-      "stars": 19136,
+      "stars": 19146,
       "url": "https://github.com/xai-org/grok-build"
     },
     {
       "name": "Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
-      "description_cn": "",
+      "description_cn": "法典梦想皮肤",
       "language": "JavaScript",
-      "stars": 9852,
+      "stars": 9856,
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "description_cn": "",
+      "description_cn": "一种新的网络交互式视频开源格式，具有内置状态机、帧精确过渡和打包 Alpha 透明度。",
       "language": "TypeScript",
       "stars": 1218,
       "url": "https://github.com/pixel-point/aval"
@@ -36,7 +36,7 @@
     {
       "name": "littledivy/mimic",
       "description": "Intercept any app, then call it from Python like a library",
-      "description_cn": "",
+      "description_cn": "拦截任何应用程序，然后像库一样从 Python 调用它",
       "language": "Python",
       "stars": 1179,
       "url": "https://github.com/littledivy/mimic"
@@ -44,9 +44,9 @@
     {
       "name": "tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
-      "description_cn": "",
+      "description_cn": "你的衣服，用 gpt-image 提取并组织。",
       "language": "JavaScript",
-      "stars": 1069,
+      "stars": 1070,
       "url": "https://github.com/tandpfun/wardrobe"
     },
     {
@@ -60,7 +60,7 @@
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "description_cn": "",
+      "description_cn": "本地优先、零信任代理 IDE，用于可验证的自主软件开发。",
       "language": "TypeScript",
       "stars": 840,
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
@@ -68,7 +68,7 @@
     {
       "name": "oil-oil/beautify-github-readme",
       "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
-      "description_cn": "",
+      "description_cn": "设计清晰、主题特定的 GitHub README 主页，其中包含 SVG 标题、真实证明和可维护的 Markdown",
       "language": "Python",
       "stars": 830,
       "url": "https://github.com/oil-oil/beautify-github-readme"
@@ -76,7 +76,7 @@
     {
       "name": "Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "description_cn": "",
+      "description_cn": "一种法典技能，可从最近的公共信号中找到有证据支持的潜在第一批客户。",
       "language": "Python",
       "stars": 817,
       "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
