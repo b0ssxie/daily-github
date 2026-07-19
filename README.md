@@ -34,16 +34,12 @@
 | 分层 | 技术 | 说明 |
 |------|------|------|
 | 前端 | 纯 HTML / CSS / JS | 零依赖，GitHub Pages 原生托管 |
-| 后端 | Python 3 + googletrans | 调用 GitHub API 抓取并翻译为中文 |
+| 后端 | Python 3 + deep-translator | 调用 GitHub API 抓取并翻译为中文 |
 | 自动化 | GitHub Actions | cron 每天 UTC 0:00 自动运行并提交数据 |
 
 ## ⚙️ 工作原理
 
-```
-GitHub Search API  →  Python 脚本  →  翻译 (EN → zh-CN)  →  data/*.json
-                                                              ↓
-GitHub Pages  ←  GitHub Actions (自动提交)  ←  index.html 加载 JSON → 渲染卡片
-```
+![架构图](docs/diagrams/daily-github.drawio.png)
 
 ## 📄 License
 
