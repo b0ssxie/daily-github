@@ -6,7 +6,7 @@
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "description_cn": "",
       "language": "Rust",
-      "stars": 18966,
+      "stars": 19052,
       "url": "https://github.com/xai-org/grok-build"
     },
     {
@@ -14,7 +14,7 @@
       "description": "Codex Dream Skin",
       "description_cn": "",
       "language": "JavaScript",
-      "stars": 9782,
+      "stars": 9821,
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
     },
     {
@@ -30,7 +30,7 @@
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "description_cn": "",
       "language": "TypeScript",
-      "stars": 1214,
+      "stars": 1217,
       "url": "https://github.com/pixel-point/aval"
     },
     {
@@ -38,7 +38,7 @@
       "description": "Intercept any app, then call it from Python like a library",
       "description_cn": "",
       "language": "Python",
-      "stars": 1176,
+      "stars": 1177,
       "url": "https://github.com/littledivy/mimic"
     },
     {
@@ -46,7 +46,7 @@
       "description": "Your clothes, extracted and organized with gpt-image.",
       "description_cn": "",
       "language": "JavaScript",
-      "stars": 1058,
+      "stars": 1063,
       "url": "https://github.com/tandpfun/wardrobe"
     },
     {
@@ -54,7 +54,7 @@
       "description": "",
       "description_cn": "",
       "language": "Dockerfile",
-      "stars": 873,
+      "stars": 875,
       "url": "https://github.com/x4gKing/Marzban-Panel"
     },
     {
@@ -70,7 +70,7 @@
       "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "description_cn": "",
       "language": "Python",
-      "stars": 821,
+      "stars": 826,
       "url": "https://github.com/oil-oil/beautify-github-readme"
     },
     {
