@@ -68,8 +68,8 @@ a:hover { text-decoration: underline; }
 }
 .theme-toggle {
   background: none; border: 1px solid var(--border); border-radius: 6px;
-  padding: 6px 12px; cursor: pointer; font-size: 14px;
-  color: var(--text-secondary); transition: .15s;
+  padding: 6px 12px; cursor: pointer; font-size: 16px;
+  color: var(--text-secondary); transition: .15s; line-height: 1;
 }
 .theme-toggle:hover { background: var(--bg-secondary); }
 
@@ -117,8 +117,10 @@ a:hover { text-decoration: underline; }
 
 .card {
   display: block; background: var(--bg-card); border: 1px solid var(--border);
+  border-left: 3px solid var(--accent, var(--border));
   border-radius: 6px; padding: 16px; margin-bottom: 12px;
-  transition: box-shadow .15s; cursor: pointer;
+  transition: box-shadow .15s, border-color .15s; cursor: pointer;
+  animation: cardIn .4s ease both;
 }
 .card:hover {
   box-shadow: 0 1px 8px var(--card-hover-shadow); text-decoration: none;
@@ -143,6 +145,35 @@ a:hover { text-decoration: underline; }
 .lang-tag {
   font-size: 12px; padding: 1px 8px; border-radius: 12px;
   background: var(--tag-bg); color: var(--tag-text); font-weight: 500;
+}
+
+.skeleton-list { padding: 4px 0; }
+.skeleton-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 6px; padding: 16px; margin-bottom: 12px;
+}
+.skeleton-line {
+  height: 14px; border-radius: 4px; margin-bottom: 10px;
+  background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-secondary) 50%, var(--bg-card) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+.skeleton-line:last-child { margin-bottom: 0; }
+.skeleton-line.w-60 { width: 60%; }
+.skeleton-line.w-80 { width: 80%; }
+.skeleton-line.w-40 { width: 40%; }
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+@keyframes cardIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card { animation: none; }
+  .skeleton-line { animation: none; }
 }
 
 .footer {
@@ -174,7 +205,7 @@ a:hover { text-decoration: underline; }
     <span style="font-size:22px">&#127783;</span>
     开源日报
   </h1>
-  <button class="theme-toggle" id="themeToggle" aria-label="切换主题">&#127769; 深色模式</button>
+  <button class="theme-toggle" id="themeToggle" aria-label="切换主题">🌙</button>
 </header>
 
 <div class="layout">
@@ -205,6 +236,16 @@ a:hover { text-decoration: underline; }
 <script>
 (function() {
   const STORAGE_KEY = 'daily_github_theme';
+  const LANG_COLORS = {
+    JavaScript: '#f1e05a', Python: '#3572A5', TypeScript: '#3178c6',
+    Rust: '#dea584', Go: '#00ADD8', Java: '#b07219',
+    'C++': '#f34b7d', C: '#555555', 'C#': '#178600',
+    HTML: '#e34c26', CSS: '#563d7c', Shell: '#89e051',
+    Ruby: '#701516', Swift: '#F05138', Kotlin: '#A97BFF',
+    Dart: '#00B4AB', Vue: '#41b883', PHP: '#4F5D95',
+    Scala: '#c22d40', Haskell: '#5e5086', Lua: '#000080',
+    Elixir: '#6e4a7e', Clojure: '#db5855', 'Objective-C': '#438eff',
+  };
 
   function getPreferredTheme() {
     const stored = localStorage.getItem(STORAGE_KEY);
@@ -216,7 +257,7 @@ a:hover { text-decoration: underline; }
     document.documentElement.setAttribute('data-theme', theme);
     localStorage.setItem(STORAGE_KEY, theme);
     const btn = document.getElementById('themeToggle');
-    if (btn) btn.innerHTML = theme === 'dark' ? '&#127774; 浅色模式' : '&#127769; 深色模式';
+    if (btn) btn.innerHTML = theme === 'dark' ? '☀️' : '🌙';
   }
 
   setTheme(getPreferredTheme());
@@ -275,7 +316,7 @@ a:hover { text-decoration: underline; }
     document.getElementById('dayTitle').textContent = '\uD83D\uDCC5 ' + formatDate(dateStr);
 
     const list = document.getElementById('projectList');
-    list.innerHTML = '<p style="color:var(--text-secondary);padding:20px 0">加载中...</p>';
+    list.innerHTML = '<div class="skeleton-list">' + Array.from({length:5}, function(){return '<div class="skeleton-card"><div class="skeleton-line w-60"></div><div class="skeleton-line w-80"></div><div class="skeleton-line w-40"></div></div>';}).join('') + '</div>';
 
     fetch('data/' + dateStr + '.json')
       .then(function(r) {
@@ -293,9 +334,13 @@ a:hover { text-decoration: underline; }
           var langTag = p.language ? '<span class="lang-tag">' + p.language + '</span>' : '';
           var enDesc = p.description ? '<div class="card-desc-en">' + escapeHtml(p.description) + '</div>' : '';
           var cnDesc = p.description_cn ? '<div class="card-desc-cn">' + escapeHtml(p.description_cn) + '</div>' : '';
-          return '<a class="card" href="' + p.url + '" target="_blank" rel="noopener">' +
+          var langColor = LANG_COLORS[p.language] || '';
+          var rankColors = ['#e6b422', '#a3a3a3', '#cd7f32'];
+          var rankColor = rankColors[i] || '';
+          var accentStyle = langColor ? '--accent:' + langColor + ';' : '';
+          return '<a class="card" href="' + p.url + '" target="_blank" rel="noopener" style="' + accentStyle + 'animation-delay:' + (i * 0.06) + 's">' +
             '<div class="card-top">' +
-              '<span class="card-rank">#' + (i + 1) + '</span>' +
+              '<span class="card-rank"' + (rankColor ? ' style="color:' + rankColor + '"' : '') + '>#' + (i + 1) + '</span>' +
               '<span class="card-name">' + escapeHtml(p.name) + '</span>' +
               '<span class="card-stars">&#11088; ' + stars + '</span>' +
             '</div>' +
