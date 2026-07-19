@@ -196,6 +196,22 @@ a:hover { text-decoration: underline; }
   .main { padding: 16px; }
   .card-top { flex-wrap: wrap; }
 }
+
+.lang-filter {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+  margin-bottom: 16px; min-height: 28px;
+}
+.lang-chip {
+  font-size: 12px; padding: 2px 10px; border-radius: 12px;
+  cursor: pointer; user-select: none;
+  background: var(--bg-card); color: var(--text-secondary);
+  border: 1px solid var(--border); transition: .1s;
+}
+.lang-chip:hover { background: var(--sidebar-hover); }
+.lang-chip.active {
+  background: var(--tag-bg); color: var(--tag-text);
+  border-color: var(--tag-text); font-weight: 500;
+}
 </style>
 </head>
 <body>
@@ -224,6 +240,7 @@ a:hover { text-decoration: underline; }
         <h2 id="dayTitle"></h2>
         <p class="subtitle" id="daySubtitle"></p>
       </div>
+      <div id="langFilter" class="lang-filter"></div>
       <div id="projectList"></div>
     </div>
   </main>
@@ -275,6 +292,8 @@ a:hover { text-decoration: underline; }
 
   let allDates = [];
   let currentDate = null;
+  let currentData = [];
+  let currentLang = '';
 
   function formatDate(str) {
     const d = new Date(str + 'T00:00:00');
@@ -317,6 +336,7 @@ a:hover { text-decoration: underline; }
 
     const list = document.getElementById('projectList');
     list.innerHTML = '<div class="skeleton-list">' + Array.from({length:5}, function(){return '<div class="skeleton-card"><div class="skeleton-line w-60"></div><div class="skeleton-line w-80"></div><div class="skeleton-line w-40"></div></div>';}).join('') + '</div>';
+    document.getElementById('langFilter').innerHTML = '';
 
     fetch('data/' + dateStr + '.json')
       .then(function(r) {
@@ -324,37 +344,65 @@ a:hover { text-decoration: underline; }
         return r.json();
       })
       .then(function(data) {
-        var projects = data.projects;
-        if (!projects || !projects.length) {
-          list.innerHTML = '<div class="empty-state" style="padding:40px 20px"><p>今日暂无值得关注的新项目</p></div>';
-          return;
-        }
-        list.innerHTML = projects.map(function(p, i) {
-          var stars = formatStars(p.stars);
-          var langTag = p.language ? '<span class="lang-tag">' + p.language + '</span>' : '';
-          var enDesc = p.description ? '<div class="card-desc-en">' + escapeHtml(p.description) + '</div>' : '';
-          var cnDesc = p.description_cn ? '<div class="card-desc-cn">' + escapeHtml(p.description_cn) + '</div>' : '';
-          var langColor = LANG_COLORS[p.language] || '';
-          var rankColors = ['#e6b422', '#a3a3a3', '#cd7f32'];
-          var rankColor = rankColors[i] || '';
-          var accentStyle = langColor ? '--accent:' + langColor + ';' : '';
-          return '<a class="card" href="' + p.url + '" target="_blank" rel="noopener" style="' + accentStyle + 'animation-delay:' + (i * 0.06) + 's">' +
-            '<div class="card-top">' +
-              '<span class="card-rank"' + (rankColor ? ' style="color:' + rankColor + '"' : '') + '>#' + (i + 1) + '</span>' +
-              '<span class="card-name">' + escapeHtml(p.name) + '</span>' +
-              '<span class="card-stars">&#11088; ' + stars + '</span>' +
-            '</div>' +
-            cnDesc +
-            enDesc +
-            '<div class="card-meta">' + langTag + '</div>' +
-          '</a>';
-        }).join('');
-        document.getElementById('daySubtitle').textContent = '共 ' + projects.length + ' 个项目';
+        currentData = data.projects || [];
+        currentLang = '';
+        renderLanguageFilter();
+        renderProjectList();
       })
       .catch(function() {
         list.innerHTML = '<div class="empty-state" style="padding:40px 20px"><p>数据暂不可用</p></div>';
       });
   }
+
+  function renderProjectList() {
+    var list = document.getElementById('projectList');
+    var filtered = currentLang ? currentData.filter(function(p) { return p.language === currentLang; }) : currentData;
+    if (!filtered.length) {
+      list.innerHTML = '<div class="empty-state" style="padding:40px 20px"><p>今日暂无值得关注的新项目</p></div>';
+      document.getElementById('daySubtitle').textContent = '共 0 个项目';
+      return;
+    }
+    list.innerHTML = filtered.map(function(p, i) {
+      var stars = formatStars(p.stars);
+      var langTag = p.language ? '<span class="lang-tag">' + p.language + '</span>' : '';
+      var enDesc = p.description ? '<div class="card-desc-en">' + escapeHtml(p.description) + '</div>' : '';
+      var cnDesc = p.description_cn ? '<div class="card-desc-cn">' + escapeHtml(p.description_cn) + '</div>' : '';
+      var langColor = LANG_COLORS[p.language] || '';
+      var rankColors = ['#e6b422', '#a3a3a3', '#cd7f32'];
+      var rankColor = rankColors[i] || '';
+      var accentStyle = langColor ? '--accent:' + langColor + ';' : '';
+      return '<a class="card" href="' + p.url + '" target="_blank" rel="noopener" style="' + accentStyle + 'animation-delay:' + (i * 0.06) + 's">' +
+        '<div class="card-top">' +
+          '<span class="card-rank"' + (rankColor ? ' style="color:' + rankColor + '"' : '') + '>#' + (i + 1) + '</span>' +
+          '<span class="card-name">' + escapeHtml(p.name) + '</span>' +
+          '<span class="card-stars">&#11088; ' + stars + '</span>' +
+        '</div>' +
+        cnDesc +
+        enDesc +
+        '<div class="card-meta">' + langTag + '</div>' +
+      '</a>';
+    }).join('');
+    document.getElementById('daySubtitle').textContent = '共 ' + filtered.length + ' 个项目';
+  }
+
+  function renderLanguageFilter() {
+    var langs = {};
+    currentData.forEach(function(p) { if (p.language) langs[p.language] = true; });
+    var sorted = Object.keys(langs).sort();
+    var html = '<span class="lang-chip' + (!currentLang ? ' active' : '') + '" data-lang="">全部</span>';
+    sorted.forEach(function(l) {
+      html += '<span class="lang-chip' + (currentLang === l ? ' active' : '') + '" data-lang="' + escapeHtml(l) + '">' + escapeHtml(l) + '</span>';
+    });
+    document.getElementById('langFilter').innerHTML = html;
+  }
+
+  document.getElementById('langFilter').addEventListener('click', function(e) {
+    var chip = e.target.closest('.lang-chip');
+    if (!chip) return;
+    currentLang = chip.getAttribute('data-lang') || '';
+    renderLanguageFilter();
+    renderProjectList();
+  });
 
   function escapeHtml(s) {
     var div = document.createElement('div');
