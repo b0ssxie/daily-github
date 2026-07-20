@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-20",
+  "projects": [
+    {
+      "name": "xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "description_cn": "SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。",
+      "language": "Rust",
+      "stars": 20203,
+      "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "description_cn": "法典梦想皮肤",
+      "language": "JavaScript",
+      "stars": 10453,
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1317,
+      "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
+      "name": "pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "description_cn": "一种新的网络交互式视频开源格式，具有内置状态机、帧精确过渡和打包 Alpha 透明度。",
+      "language": "TypeScript",
+      "stars": 1241,
+      "url": "https://github.com/pixel-point/aval"
+    },
+    {
+      "name": "littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "description_cn": "拦截任何应用程序，然后像库一样从 Python 调用它",
+      "language": "Python",
+      "stars": 1214,
+      "url": "https://github.com/littledivy/mimic"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "description_cn": "你的衣服，用 gpt-image 提取并组织。",
+      "language": "JavaScript",
+      "stars": 1161,
+      "url": "https://github.com/tandpfun/wardrobe"
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "description_cn": "设计清晰、主题特定的 GitHub README 主页，其中包含 SVG 标题、真实证明和可维护的 Markdown",
+      "language": "Python",
+      "stars": 865,
+      "url": "https://github.com/oil-oil/beautify-github-readme"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "description_cn": "使用 LLM 将消息隐藏在看似正常的对话中",
+      "language": "Go",
+      "stars": 828,
+      "url": "https://github.com/nethical6/conversation-steganography"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "description_cn": "yoink 来自您终端的任何视频。没有阴暗的广告。",
+      "language": "TypeScript",
+      "stars": 765,
+      "url": "https://github.com/pablostanley/yoinks"
+    },
+    {
+      "name": "KubeezMedia/kubeez-scroll-world-video",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "description_cn": "滚动擦洗的“飞越世界”汉堡演示，由 Kubeez 生成。直播：meepcastana.github.io/kubeez-scroll-world-video",
+      "language": "JavaScript",
+      "stars": 660,
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video"
+    }
+  ]
+}
