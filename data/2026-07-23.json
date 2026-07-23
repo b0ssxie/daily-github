@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-23",
+  "projects": [
+    {
+      "name": "lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "description_cn": "🐎 Ryan Lopopolo 的线束工程选集、现场指南和代理上下文包",
+      "language": "Python",
+      "stars": 2197,
+      "url": "https://github.com/lopopolo/harness-engineering"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "description_cn": "你的衣服，用 gpt-image 提取并组织。",
+      "language": "JavaScript",
+      "stars": 1358,
+      "url": "https://github.com/tandpfun/wardrobe"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "description_cn": "yoink 来自您终端的任何视频。没有阴暗的广告。",
+      "language": "TypeScript",
+      "stars": 1050,
+      "url": "https://github.com/pablostanley/yoinks"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "description_cn": "使用 LLM 将消息隐藏在看似正常的对话中",
+      "language": "Go",
+      "stars": 992,
+      "url": "https://github.com/nethical6/conversation-steganography"
+    },
+    {
+      "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "description_cn": "套利机器人是连接到控制其操作的外部自动化脚本的智能合约。",
+      "language": "Solidity",
+      "stars": 920,
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "description_cn": "V- Modal AI：随处搜索任何内容 SDK Flutter",
+      "language": "Dart",
+      "stars": 882,
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter"
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "description_cn": "本地 AI，原生于您的 Mac。通过一个 macOS 应用程序聊天、服务、监控和连接 MLX 模型。",
+      "language": "Swift",
+      "stars": 764,
+      "url": "https://github.com/Blaizzy/nativ"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "description_cn": "用于 AI 和代理 UI 的点状思想球加载指示器 — 六种调整状态、两种尺寸、自动暗/亮",
+      "language": "TypeScript",
+      "stars": 640,
+      "url": "https://github.com/Jakubantalik/thinking-orbs"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "description_cn": "使用 HyperFrames 将手绘故事插图转变为 35-45 秒的台词显示和渐变着色视频。",
+      "language": "Python",
+      "stars": 621,
+      "url": "https://github.com/xiejunjie524/handdraw-story-video"
+    },
+    {
+      "name": "smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "description_cn": "Режим идиоматического русского мата для AI-агентов。 Короче，душевнее，эффективнее。 18+",
+      "language": "",
+      "stars": 538,
+      "url": "https://github.com/smixs/pohuy"
+    }
+  ]
+}
