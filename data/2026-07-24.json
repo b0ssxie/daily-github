@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-24",
+  "projects": [
+    {
+      "name": "lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "description_cn": "🐎 Ryan Lopopolo 的线束工程选集、现场指南和代理上下文包",
+      "language": "Python",
+      "stars": 2277,
+      "url": "https://github.com/lopopolo/harness-engineering"
+    },
+    {
+      "name": "andrewyng/openworker",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1447,
+      "url": "https://github.com/andrewyng/openworker"
+    },
+    {
+      "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "description_cn": "套利机器人是连接到控制其操作的外部自动化脚本的智能合约。",
+      "language": "Solidity",
+      "stars": 1195,
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
+    },
+    {
+      "name": "nyblnet/bento",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1145,
+      "url": "https://github.com/nyblnet/bento"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "description_cn": "使用 LLM 将消息隐藏在看似正常的对话中",
+      "language": "Go",
+      "stars": 1072,
+      "url": "https://github.com/nethical6/conversation-steganography"
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "description_cn": "Claude Code & Codex 的 AI 视频技能 — 使用 Remotion 的电影产品视频：106 个镜头配方卡、161 个动作预览、一个可立即投入生产的模板",
+      "language": "TypeScript",
+      "stars": 969,
+      "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "description_cn": "用于 AI 和代理 UI 的点状思想球加载指示器 — 六种调整状态、两种尺寸、自动暗/亮",
+      "language": "TypeScript",
+      "stars": 834,
+      "url": "https://github.com/Jakubantalik/thinking-orbs"
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "description_cn": "本地 AI，原生于您的 Mac。通过一个 macOS 应用程序聊天、服务、监控和连接 MLX 模型。",
+      "language": "Swift",
+      "stars": 818,
+      "url": "https://github.com/Blaizzy/nativ"
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "description_cn": "一个先接住情绪、再分析关系并给出可执行策略的恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元。",
+      "language": "Python",
+      "stars": 670,
+      "url": "https://github.com/powerycy/goutoujunshi"
+    },
+    {
+      "name": "pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "description_cn": "适用于头部说话视频的开源、无后端 AI 视频编辑器 — 故事板、设计图形、动态字幕、主题和浏览器内 WebCodecs 导出。可由任何 AI 代理通过 MCP 驱动。",
+      "language": "TypeScript",
+      "stars": 661,
+      "url": "https://github.com/pireel/pireel"
+    }
+  ]
+}
