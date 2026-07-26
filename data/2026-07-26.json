@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-26",
+  "projects": [
+    {
+      "name": "andrewyng/openworker",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 5093,
+      "url": "https://github.com/andrewyng/openworker"
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "description_cn": "Claude Code & Codex 的 AI 视频技能 — 使用 Remotion 的电影产品视频：106 个镜头配方卡、161 个动作预览、一个可立即投入生产的模板",
+      "language": "TypeScript",
+      "stars": 1755,
+      "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "description_cn": "用于 AI 和代理 UI 的点状思想球加载指示器 — 六种调整状态、两种尺寸、自动暗/亮",
+      "language": "TypeScript",
+      "stars": 1015,
+      "url": "https://github.com/Jakubantalik/thinking-orbs"
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "description_cn": "本地 AI，原生于您的 Mac。通过一个 macOS 应用程序聊天、服务、监控和连接 MLX 模型。",
+      "language": "Swift",
+      "stars": 885,
+      "url": "https://github.com/Blaizzy/nativ"
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "description_cn": "一个先接住情绪、再分析关系并给出可执行策略的恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元。",
+      "language": "Python",
+      "stars": 880,
+      "url": "https://github.com/powerycy/goutoujunshi"
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 838,
+      "url": "https://github.com/slvDev/esp32-ai"
+    },
+    {
+      "name": "pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "description_cn": "适用于头部说话视频的开源、无后端 AI 视频编辑器 — 故事板、设计图形、动态字幕、主题和浏览器内 WebCodecs 导出。可由任何 AI 代理通过 MCP 驱动。",
+      "language": "TypeScript",
+      "stars": 753,
+      "url": "https://github.com/pireel/pireel"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "description_cn": "特工技能：将中文故事文案或订购图片转换成手绘日记漫画动画（无声MP4图轨）。",
+      "language": "JavaScript",
+      "stars": 627,
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "description_cn": "真正的文案技巧+真实的营销知识，人性化的AI文案。",
+      "language": "Python",
+      "stars": 595,
+      "url": "https://github.com/mikiarlo3/ai-copywriter"
+    },
+    {
+      "name": "CatsJuice/sticker-forge",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "description_cn": "具有丰富文本、图像上传和交互式剥离物理功能的触觉 WebGL 贴纸制作器。",
+      "language": "JavaScript",
+      "stars": 575,
+      "url": "https://github.com/CatsJuice/sticker-forge"
+    }
+  ]
+}
