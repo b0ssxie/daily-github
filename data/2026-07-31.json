@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-31",
+  "projects": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "description_cn": "开放前沿情报",
+      "language": "",
+      "stars": 7553,
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "name": "digimata/quill",
+      "description": "Ultra-minimalist macOS recording + transcription.",
+      "description_cn": "超简约的 macOS 录音 + 转录。",
+      "language": "Swift",
+      "stars": 2476,
+      "url": "https://github.com/digimata/quill"
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "description_cn": "Three.js 中的《使命召唤》品质 FPS，由单一提示构建。",
+      "language": "JavaScript",
+      "stars": 2410,
+      "url": "https://github.com/mshumer/Claude-of-Duty"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "description_cn": "真正的文案技巧+真实的营销知识，人性化的AI文案。",
+      "language": "Python",
+      "stars": 988,
+      "url": "https://github.com/mikiarlo3/ai-copywriter"
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "description_cn": "AI 代理的永久记忆。 426 个令牌提示，一个脚本，即插即用。",
+      "language": "Python",
+      "stars": 934,
+      "url": "https://github.com/VictorTaelin/OptMem"
+    },
+    {
+      "name": "MoonshotAI/MoonEP",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "description_cn": "MoonEP：通过动态冗余专家实现完美平衡的专家并行库",
+      "language": "Python",
+      "stars": 934,
+      "url": "https://github.com/MoonshotAI/MoonEP"
+    },
+    {
+      "name": "xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "description_cn": "让实时语音栩栩如生。",
+      "language": "JavaScript",
+      "stars": 677,
+      "url": "https://github.com/xikhar/persona"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_cn": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。",
+      "language": "JavaScript",
+      "stars": 564,
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "description_cn": "跑到任何地方。使用任何东西",
+      "language": "TypeScript",
+      "stars": 562,
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "description_cn": "查看您的编码代理做了什么以及花费了多少。将每个任务分解为工作步骤——使用的工具、更改的文件、运行的测试、花费的时间和令牌。适用于 Claude Code、Codex、OpenCode 等的本地优先仪表板。无需登录，无需遥测。",
+      "language": "Python",
+      "stars": 538,
+      "url": "https://github.com/mikehasa/agentacct"
+    }
+  ]
+}
