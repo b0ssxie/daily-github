@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-01",
+  "projects": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "description_cn": "开放前沿情报",
+      "language": "",
+      "stars": 7726,
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "description_cn": "Three.js 中的《使命召唤》品质 FPS，由单个提示构建。",
+      "language": "JavaScript",
+      "stars": 2526,
+      "url": "https://github.com/mshumer/Claude-of-Duty"
+    },
+    {
+      "name": "yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "description_cn": "用于工作的多人代理安全带",
+      "language": "TypeScript",
+      "stars": 2160,
+      "url": "https://github.com/yc-software/qm"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2093,
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "description_cn": "AI 代理的永久记忆。 426 个令牌提示，一个脚本，即插即用。",
+      "language": "Python",
+      "stars": 1040,
+      "url": "https://github.com/VictorTaelin/OptMem"
+    },
+    {
+      "name": "xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "description_cn": "让实时语音栩栩如生。",
+      "language": "JavaScript",
+      "stars": 717,
+      "url": "https://github.com/xikhar/persona"
+    },
+    {
+      "name": "QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "description_cn": "实时语音运行时，让客服人员能够继续交谈、工作和出席。  AI 代理的实时语音运行时",
+      "language": "JavaScript",
+      "stars": 618,
+      "url": "https://github.com/QwenAudio/qwen-audio-agent"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "description_cn": "FDE（前沿部署工程师）从零入门指南（基于范冰《生长黑客》原书框架）",
+      "language": "",
+      "stars": 582,
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_cn": "让你的人工智能代理像房间里最懒的高级开发人员一样思考。最好的代码是你从未编写过的代码。",
+      "language": "JavaScript",
+      "stars": 570,
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "description_cn": "在单个设备上运行完整的 Kimi K3。以及用于本地聊天和编码代理的 OpenAI 兼容 API 服务器。",
+      "language": "Python",
+      "stars": 564,
+      "url": "https://github.com/gavamedia/deltafin"
+    }
+  ]
+}
