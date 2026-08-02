@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-02",
+  "projects": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "description_cn": "开放前沿情报",
+      "language": "",
+      "stars": 7829,
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "name": "yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "description_cn": "用于工作的多人代理安全带",
+      "language": "TypeScript",
+      "stars": 5093,
+      "url": "https://github.com/yc-software/qm"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3105,
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+    },
+    {
+      "name": "QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "description_cn": "实时语音运行时，让客服人员能够继续交谈、工作和出席。  AI 代理的实时语音运行时",
+      "language": "JavaScript",
+      "stars": 1339,
+      "url": "https://github.com/QwenAudio/qwen-audio-agent"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "description_cn": "FDE（前沿部署工程师）从零入门指南（基于范冰《生长黑客》原书框架）",
+      "language": "",
+      "stars": 1069,
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    },
+    {
+      "name": "xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "description_cn": "让实时语音栩栩如生。",
+      "language": "JavaScript",
+      "stars": 766,
+      "url": "https://github.com/xikhar/persona"
+    },
+    {
+      "name": "trycompai/crm",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 729,
+      "url": "https://github.com/trycompai/crm"
+    },
+    {
+      "name": "sqliteai/waste",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "description_cn": "通过直接从 NVMe 流式传输激活的权重，在可用 RAM 之外运行完整的 2.78 万亿参数 Kimi K3 模型。一种无依赖性、可嵌入的 C 推理引擎。",
+      "language": "C",
+      "stars": 694,
+      "url": "https://github.com/sqliteai/waste"
+    },
+    {
+      "name": "DramaticShape/DramaticShapeVoxelMod",
+      "description": "",
+      "description_cn": "",
+      "language": "Lua",
+      "stars": 640,
+      "url": "https://github.com/DramaticShape/DramaticShapeVoxelMod"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "description_cn": "在单个设备上运行完整的 Kimi K3。以及用于本地聊天和编码代理的 OpenAI 兼容 API 服务器。",
+      "language": "Python",
+      "stars": 595,
+      "url": "https://github.com/gavamedia/deltafin"
+    }
+  ]
+}
