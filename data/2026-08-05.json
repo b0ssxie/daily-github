@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-05",
+  "projects": [
+    {
+      "name": "yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "description_cn": "用于工作的多人代理安全带",
+      "language": "TypeScript",
+      "stars": 11203,
+      "url": "https://github.com/yc-software/qm"
+    },
+    {
+      "name": "trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "description_cn": "开源、代理优先的 CRM。",
+      "language": "TypeScript",
+      "stars": 4787,
+      "url": "https://github.com/trycompai/crm"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 4557,
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "description_cn": "FDE（前沿部署工程师）从零入门指南（基于范冰《生长黑客》原书框架）",
+      "language": "",
+      "stars": 2983,
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "description_cn": "2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。",
+      "language": "C",
+      "stars": 2064,
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+    },
+    {
+      "name": "microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "description_cn": "桌面应用程序，记录您的屏幕上工作会话，并使用 GitHub Copilot CLI 将其重建为意图 + 有序步骤，然后为 Microsoft Scout、Microsoft Copilot Cowork 或 Copilot Studio 构建可重用的技能或自动化。",
+      "language": "TypeScript",
+      "stars": 1797,
+      "url": "https://github.com/microsoft/skill-recorder"
+    },
+    {
+      "name": "imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "description_cn": "竹知了——一转就哇哇叫的传统玩具，Web模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "language": "HTML",
+      "stars": 1690,
+      "url": "https://github.com/imsai-sh/zhuzhiliao"
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "description_cn": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。",
+      "language": "Rust",
+      "stars": 1679,
+      "url": "https://github.com/firecrawl/anydoc"
+    },
+    {
+      "name": "genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "description_cn": "适用于 macOS 和 Windows 的 AI 原生办公套件：文字处理器、电子表格、演示文稿和 PDF。",
+      "language": "TypeScript",
+      "stars": 1368,
+      "url": "https://github.com/genspark-ai/genoffice"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "description_cn": "Codex 原生架构师与 Luna 和 Terra 实施通道进行编排，并强制进行新的 Sol 审查。",
+      "language": "Shell",
+      "stars": 1326,
+      "url": "https://github.com/DannyMac180/sol-advisor"
+    }
+  ]
+}
