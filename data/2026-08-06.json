@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-06",
+  "projects": [
+    {
+      "name": "trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "description_cn": "开源、代理优先的 CRM。",
+      "language": "TypeScript",
+      "stars": 6357,
+      "url": "https://github.com/trycompai/crm"
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "description_cn": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。",
+      "language": "Rust",
+      "stars": 5270,
+      "url": "https://github.com/firecrawl/anydoc"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 4704,
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "description_cn": "FDE（前沿部署工程师）从零入门指南（基于范冰《生长黑客》原书框架）",
+      "language": "",
+      "stars": 3401,
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "description_cn": "2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。",
+      "language": "C",
+      "stars": 2598,
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+    },
+    {
+      "name": "imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "description_cn": "竹知了——一转就哇哇叫的传统玩具，Web模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "language": "HTML",
+      "stars": 2058,
+      "url": "https://github.com/imsai-sh/zhuzhiliao"
+    },
+    {
+      "name": "genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "description_cn": "适用于 macOS 和 Windows 的 AI 原生办公套件：文字处理器、电子表格、演示文稿和 PDF。",
+      "language": "TypeScript",
+      "stars": 1801,
+      "url": "https://github.com/genspark-ai/genoffice"
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "description_cn": "使用 Threejs 和 GPT 5.6 Sol 构建的交互式 3D 人体解剖学浏览器",
+      "language": "TypeScript",
+      "stars": 1624,
+      "url": "https://github.com/thebuggeddev/anatomy"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "description_cn": "Codex 原生架构师与 Luna 和 Terra 实施通道进行编排，并强制进行新的 Sol 审查。",
+      "language": "Shell",
+      "stars": 1478,
+      "url": "https://github.com/DannyMac180/sol-advisor"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "description_cn": "让AI把中文读起来像一个具体的人在说话。通用创作与改稿技巧，开箱即用。",
+      "language": "Python",
+      "stars": 1144,
+      "url": "https://github.com/KKKKhazix/human-writing"
+    }
+  ]
+}
