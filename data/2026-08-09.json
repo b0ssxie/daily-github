@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-09",
+  "projects": [
+    {
+      "name": "firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "description_cn": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。",
+      "language": "Rust",
+      "stars": 12141,
+      "url": "https://github.com/firecrawl/anydoc"
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "description_cn": "使用 Threejs 和 GPT 5.6 Sol 构建的交互式 3D 人体解剖学浏览器",
+      "language": "TypeScript",
+      "stars": 2037,
+      "url": "https://github.com/thebuggeddev/anatomy"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "description_cn": "让AI把中文读起来像一个具体的人在说话。通用创作与改稿技巧，开箱即用。",
+      "language": "Python",
+      "stars": 1989,
+      "url": "https://github.com/KKKKhazix/human-writing"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "description": "",
+      "description_cn": "",
+      "language": "",
+      "stars": 1732,
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "description_cn": "非官方 Kimi Slides 技能：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 AI Agent 的非官方 Kimi Slides 技能 — 使用本地浏览器编辑器生成可编辑的 PPTD + PPTX",
+      "language": "",
+      "stars": 1588,
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+    },
+    {
+      "name": "Accio-org/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "description_cn": "RealReplicaBench：在真实在线服务的高保真、有状态和可复制副本中对长期代理进行基准测试",
+      "language": "HTML",
+      "stars": 1042,
+      "url": "https://github.com/Accio-org/RealReplicaBench"
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "description_cn": "寻找 Claude、ChatGPT、Manus 的代理增长黑客技能 |通过 enso.bot",
+      "language": "Shell",
+      "stars": 765,
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
+    },
+    {
+      "name": "magicrew/doc7",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "description_cn": "通过视觉理解将文档转换为 AI 就绪的 Markdown",
+      "language": "Go",
+      "stars": 729,
+      "url": "https://github.com/magicrew/doc7"
+    },
+    {
+      "name": "0xwilliamortiz/claude-red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "description_cn": "claude-red 是一个专为 Claude 技能系统设计的进攻性安全技能库。每项技能都是一个结构化的 SKILL.md 文件，为 Claude 提供针对特定攻击面的专家级方法——从 SQLi 到 shellcode，从 EDR 规避到漏洞利用开发。",
+      "language": "JavaScript",
+      "stars": 681,
+      "url": "https://github.com/0xwilliamortiz/claude-red"
+    },
+    {
+      "name": "sophiamyang/finger-frame-effect-ai",
+      "description": "",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 624,
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai"
+    }
+  ]
+}
