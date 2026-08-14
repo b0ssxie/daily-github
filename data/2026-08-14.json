@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-14",
+  "projects": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "description_cn": "DeepSeek Harness：一切都是插件。",
+      "language": "TypeScript",
+      "stars": 53706,
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "description_cn": "剥离多供应商 AI 出处标记：Unicode 文本卫生、统计重写挂钩以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据",
+      "language": "Python",
+      "stars": 5489,
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "name": "antirez/h3.c",
+      "description": "MiniMax H3 inference engine for Mac computers",
+      "description_cn": "适用于 Mac 计算机的 MiniMax H3 推理引擎",
+      "language": "C",
+      "stars": 1780,
+      "url": "https://github.com/antirez/h3.c"
+    },
+    {
+      "name": "ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "description_cn": "让您的代理控制您的手机",
+      "language": "Python",
+      "stars": 1715,
+      "url": "https://github.com/ShawnPana/phone-harness"
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "description_cn": "创建流畅、响应灵敏的交互式网页动画。",
+      "language": "Python",
+      "stars": 1689,
+      "url": "https://github.com/oil-oil/oil-motion"
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1686,
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description_cn": "将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。",
+      "language": "Python",
+      "stars": 1028,
+      "url": "https://github.com/Leutenegger/book-to-skill"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "description_cn": "通过 DRAM 加扰解锁 CPU 上的一切",
+      "language": "C",
+      "stars": 1019,
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+    },
+    {
+      "name": "Flaminis/Dalaran",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "description_cn": "Dalaran — Apache-2.0，用于多模式时间序列的机器人优先可视化和数据基础设施。 ROS 2 本机，读取现有的 .rrd 录音。 Rerun 的硬分叉。",
+      "language": "Rust",
+      "stars": 935,
+      "url": "https://github.com/Flaminis/Dalaran"
+    },
+    {
+      "name": "gvzdv/claudish-to-english",
+      "description": "",
+      "description_cn": "",
+      "language": "Shell",
+      "stars": 926,
+      "url": "https://github.com/gvzdv/claudish-to-english"
+    }
+  ]
+}
