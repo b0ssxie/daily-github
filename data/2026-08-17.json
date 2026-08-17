@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-17",
+  "projects": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "description_cn": "DeepSeek Harness：一切都是插件。",
+      "language": "TypeScript",
+      "stars": 132350,
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "description_cn": "剥离多供应商 AI 出处标记：Unicode 文本卫生、统计重写挂钩以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据",
+      "language": "Python",
+      "stars": 11555,
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "description_cn": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "language": "TypeScript",
+      "stars": 9042,
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "description_cn": "DeepSeek Harness (dsh) 插件精选列表 · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 5235,
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "description_cn": "DeepSeek Harness (DSH) Web UI 的插件和皮肤集合 - 任务板、git 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心。",
+      "language": "TypeScript",
+      "stars": 3454,
+      "url": "https://github.com/zhu1090093659/dsh-web-ui"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "description_cn": "两阶段 DeepSeek Harness 预设：最小对齐引导程序，然后是完整的标准工具 (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3049,
+      "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "description_cn": "dsh-routing-suite — 注入器 + 路由器标准套件：首先安装运行时注入器，然后安装任务感知推理模式路由器预设（测量 P1-P23）。",
+      "language": "PowerShell",
+      "stars": 2841,
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "name": "cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "description_cn": "时空可组合性的编程范式",
+      "language": "",
+      "stars": 1882,
+      "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1766,
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "description_cn": "通过 DRAM 加扰解锁 CPU 上的一切",
+      "language": "C",
+      "stars": 1731,
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+    }
+  ]
+}
