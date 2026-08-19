@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-19",
+  "projects": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "description_cn": "DeepSeek Harness：一切都是插件。",
+      "language": "TypeScript",
+      "stars": 160599,
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "description_cn": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "language": "TypeScript",
+      "stars": 13642,
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "description_cn": "DeepSeek Harness (dsh) 插件精选列表 · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 8926,
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "description_cn": "dsh-routing-suite — 注入器 + 路由器标准套件：首先安装运行时注入器，然后安装任务感知推理模式路由器预设（测量 P1-P23）。",
+      "language": "PowerShell",
+      "stars": 6045,
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "description_cn": "DeepSeek Harness (DSH) Web UI 的插件和皮肤集合 - 任务板、git 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心。",
+      "language": "TypeScript",
+      "stars": 4579,
+      "url": "https://github.com/zhu1090093659/dsh-web-ui"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "description_cn": "两阶段 DeepSeek Harness 预设：最小对齐引导程序，然后是完整的标准工具 (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3560,
+      "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "description_cn": "用于拒绝低证据 TypeScript 和 JavaScript 模式的固执己见的 Oxlint 规则",
+      "language": "TypeScript",
+      "stars": 2638,
+      "url": "https://github.com/dmmulroy/anti-slop"
+    },
+    {
+      "name": "yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "description_cn": "特工团队聚集的地方。跨平台团队聊天，人工智能代理是一流的队友 - 具有云或自带（Claude Code / Codex）大脑。",
+      "language": "TypeScript",
+      "stars": 2386,
+      "url": "https://github.com/yetone/cumora"
+    },
+    {
+      "name": "cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "description_cn": "时空可组合性的编程范式",
+      "language": "",
+      "stars": 2298,
+      "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "description_cn": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/侧壁 Esc 回滚/上下文侧面+TPS。npm 一键装。DSH 官方微信精选 TUI 插件 — Claude Code 风格：鲸栏、实时状态、流思绪、双 Esc 回滚、上下文栏 + TPS。 npm 一键式。",
+      "language": "TypeScript",
+      "stars": 1977,
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI"
+    }
+  ]
+}
