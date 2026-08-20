@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-20",
+  "projects": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "description_cn": "DeepSeek Harness：一切都是插件。",
+      "language": "TypeScript",
+      "stars": 167456,
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "description_cn": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "language": "TypeScript",
+      "stars": 15209,
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "description_cn": "DeepSeek Harness (dsh) 插件精选列表 · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 10055,
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "description_cn": "dsh-routing-suite — 注入器 + 路由器标准套件：首先安装运行时注入器，然后安装任务感知推理模式路由器预设（测量 P1-P23）。",
+      "language": "PowerShell",
+      "stars": 6302,
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "description_cn": "两阶段 DeepSeek Harness 预设：最小对齐引导程序，然后是完整的标准工具 (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3637,
+      "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "name": "yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "description_cn": "特工团队聚集的地方。跨平台团队聊天，人工智能代理是一流的队友 - 具有云或自带（Claude Code / Codex）大脑。",
+      "language": "TypeScript",
+      "stars": 2688,
+      "url": "https://github.com/yetone/cumora"
+    },
+    {
+      "name": "cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "description_cn": "时空可组合性的编程范式",
+      "language": "",
+      "stars": 2397,
+      "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "description_cn": "紧凑的代理技能，用于高度简化、圆润、巧妙的新拟物化 IP 吉祥物徽标。",
+      "language": "",
+      "stars": 2101,
+      "url": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "description_cn": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/侧壁 Esc 回滚/上下文侧面+TPS。npm 一键装。DSH 官方微信精选 TUI 插件 — Claude Code 风格：鲸栏、实时状态、流思绪、双 Esc 回滚、上下文栏 + TPS。 npm 一键。",
+      "language": "TypeScript",
+      "stars": 2080,
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "description_cn": "通过 DRAM 加扰解锁 CPU 上的一切",
+      "language": "C",
+      "stars": 1851,
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+    }
+  ]
+}
