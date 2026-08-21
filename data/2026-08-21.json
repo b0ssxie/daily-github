@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-21",
+  "projects": [
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "description_cn": "dsh-routing-suite — 注入器 + 路由器标准套件：首先安装运行时注入器，然后安装任务感知推理模式路由器预设（测量 P1-P23）。",
+      "language": "PowerShell",
+      "stars": 6452,
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "description_cn": "两阶段 DeepSeek Harness 预设：最小对齐引导程序，然后是完整的标准工具 (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3684,
+      "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "description_cn": "紧凑的特工技能，用于高度简化、圆润、巧妙的新拟物化 IP 吉祥物徽标。",
+      "language": "",
+      "stars": 3107,
+      "url": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "name": "yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "description_cn": "特工团队聚集的地方。跨平台团队聊天，人工智能代理是一流的队友 - 具有云或自带（Claude Code / Codex）大脑。",
+      "language": "TypeScript",
+      "stars": 2776,
+      "url": "https://github.com/yetone/cumora"
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "description_cn": "开源人工智能同事每人都有一台自己的计算机：浏览器、文件和工具，每一个动作在发生之前就决定并在发生之后记录。带上任何 AG-UI 代理。",
+      "language": "TypeScript",
+      "stars": 1642,
+      "url": "https://github.com/CopilotKit/OpenBot"
+    },
+    {
+      "name": "dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "description_cn": "DeepSeek Harness 内的插件市场——浏览、搜索、一键安装 · DSH 可视化插件市场",
+      "language": "TypeScript",
+      "stars": 1452,
+      "url": "https://github.com/dsh-market/dsh-market"
+    },
+    {
+      "name": "cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "description_cn": "买方运行、广告中立的购物代理 MCP 软件，具有确定性排名、签署的购买授权和本地审计跟踪。",
+      "language": "JavaScript",
+      "stars": 1198,
+      "url": "https://github.com/cinderline/northcinder"
+    },
+    {
+      "name": "ZSvirt/zsvirt",
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "description_cn": "ZSvirt的核心IaaS引擎和云基础设施基础",
+      "language": "Java",
+      "stars": 1142,
+      "url": "https://github.com/ZSvirt/zsvirt"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "description_cn": "DeepSeek Harness橙皮书《从系统启动到拆开》：完整提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "language": "HTML",
+      "stars": 1101,
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book"
+    },
+    {
+      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+      "description_cn": "DeepSeek V4 × J-Space 能力实现报告 — J-Space 减少 DeepSeek V4 (Flash/Pro) 上的能力实现损失的基准证据。",
+      "language": "",
+      "stars": 1038,
+      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
+    }
+  ]
+}
