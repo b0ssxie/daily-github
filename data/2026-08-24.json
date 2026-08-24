@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-24",
+  "projects": [
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "description_cn": "",
+      "language": "",
+      "stars": 3908,
+      "url": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "name": "yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2955,
+      "url": "https://github.com/yetone/cumora"
+    },
+    {
+      "name": "MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 2912,
+      "url": "https://github.com/MengTo/threeui"
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2505,
+      "url": "https://github.com/CopilotKit/OpenBot"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1412,
+      "url": "https://github.com/wang2122/sprix-sage-router"
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "description": "Install Command：npm install",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1215,
+      "url": "https://github.com/vvxw/deploy-vercel"
+    },
+    {
+      "name": "cinderline/northcinder",
+      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1207,
+      "url": "https://github.com/cinderline/northcinder"
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "description_cn": "",
+      "language": "Zig",
+      "stars": 884,
+      "url": "https://github.com/duty1g/x64dbg-mcp-server"
+    },
+    {
+      "name": "Spielewoy/autoprompt-skill",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 769,
+      "url": "https://github.com/Spielewoy/autoprompt-skill"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 760,
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    }
+  ]
+}
