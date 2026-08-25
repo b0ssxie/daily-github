@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-25",
+  "projects": [
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "description_cn": "",
+      "language": "",
+      "stars": 4128,
+      "url": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "name": "MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 3485,
+      "url": "https://github.com/MengTo/threeui"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1756,
+      "url": "https://github.com/wang2122/sprix-sage-router"
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1756,
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "description": "Install Command：npm install",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1300,
+      "url": "https://github.com/vvxw/deploy-vercel"
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "description_cn": "",
+      "language": "Zig",
+      "stars": 1229,
+      "url": "https://github.com/duty1g/x64dbg-mcp-server"
+    },
+    {
+      "name": "tobi/walgit",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1060,
+      "url": "https://github.com/tobi/walgit"
+    },
+    {
+      "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 871,
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 837,
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 771,
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    }
+  ]
+}
