@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-26",
+  "projects": [
+    {
+      "name": "MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 3922,
+      "url": "https://github.com/MengTo/threeui"
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2555,
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "name": "tobi/walgit",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1554,
+      "url": "https://github.com/tobi/walgit"
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "description_cn": "",
+      "language": "Zig",
+      "stars": 1381,
+      "url": "https://github.com/duty1g/x64dbg-mcp-server"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 915,
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 910,
+      "url": "https://github.com/nateherkai/scroll-craft"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 791,
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    },
+    {
+      "name": "missuo/herdrm",
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 631,
+      "url": "https://github.com/missuo/herdrm"
+    },
+    {
+      "name": "ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 583,
+      "url": "https://github.com/ApodexAI/FrontierAgent"
+    },
+    {
+      "name": "amagine-ai/Amagine3D",
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 556,
+      "url": "https://github.com/amagine-ai/Amagine3D"
+    }
+  ]
+}
