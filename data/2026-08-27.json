@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-27",
+  "projects": [
+    {
+      "name": "MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "description_cn": "开源 ThreeUI 社区目录，包含实时交互组件和完整的社区源代码。",
+      "language": "HTML",
+      "stars": 4245,
+      "url": "https://github.com/MengTo/threeui"
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "description_cn": "适用于 macOS 的 Grok Bot 0.18.0 非官方面向源码的重构和扩展",
+      "language": "TypeScript",
+      "stars": 3201,
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "name": "tobi/walgit",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2138,
+      "url": "https://github.com/tobi/walgit"
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "description_cn": "x64dbg-MCP 服务器是 x64dbg 的本机 MCP（模型上下文协议）插件，可通过 HTTP 公开调试器的完整功能。连接任何兼容 MCP 的 AI 助手并以编程方式控制 x64dbg：设置断点、单步执行代码、读取内存、转储寄存器等。  使用 Zig 构建 — 零​​依赖、单二进制输出、cros",
+      "language": "Zig",
+      "stars": 1483,
+      "url": "https://github.com/duty1g/x64dbg-mcp-server"
+    },
+    {
+      "name": "ApodexAI/FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "description_cn": "🧩 FrontierAgent，我们的代理框架，与它一起开源 - 原生命令行 TUI、ReAct 和 Agent Team 模式，macOS 和 Linux 上的一个命令，无需预安装，无硬性 Docker 依赖。",
+      "language": "Python",
+      "stars": 1038,
+      "url": "https://github.com/ApodexAI/FrontierAgent"
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "description_cn": "高级滚动驱动网站的克劳德代码技能。滚动成为时间线，在真实的设计层面上，通过截图它自己的滚动来验证。",
+      "language": "JavaScript",
+      "stars": 1035,
+      "url": "https://github.com/nateherkai/scroll-craft"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "description_cn": "提供商中立的 Codex 技能，用于根据脚本和授权的演示者图像生成经过验证的 AI 演示者视频。",
+      "language": "Python",
+      "stars": 951,
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
+    },
+    {
+      "name": "bryllim/workout-guide",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "description_cn": "302 个开放练习插图和一个框架中立的 npm 包，作者：Bryl Lim",
+      "language": "Astro",
+      "stars": 877,
+      "url": "https://github.com/bryllim/workout-guide"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "description_cn": "清除多供应商 AI 水印：清除 Unicode 文本，应用统计重写挂钩，并清除 PNG、JPEG、SVG、PDF、DOCX、HTML 和 MD 中的 C2PA 和元数据。",
+      "language": "Python",
+      "stars": 810,
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    },
+    {
+      "name": "wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "description_cn": "一个用于图像和视频生成的工作室 - 一个提示栏、每个模型自己的设置以及一个画廊中的每个完成的运行。",
+      "language": "TypeScript",
+      "stars": 662,
+      "url": "https://github.com/wide-trace/open-higgsfield"
+    }
+  ]
+}
