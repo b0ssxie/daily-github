@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-30",
+  "projects": [
+    {
+      "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": "",
+      "description_cn": "",
+      "language": "TeX",
+      "stars": 3974,
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "description_cn": "适用于 macOS 的 Grok Bot 0.18.0 非官方面向源码的重构和扩展",
+      "language": "TypeScript",
+      "stars": 3436,
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "name": "sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "description_cn": "用于可测量、计算机可执行研究的自主研究系统。",
+      "language": "Python",
+      "stars": 3209,
+      "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "name": "tobi/walgit",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2329,
+      "url": "https://github.com/tobi/walgit"
+    },
+    {
+      "name": "wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "description_cn": "一个用于图像和视频生成的工作室 - 一个提示栏、每个模型自己的设置以及一个画廊中的每个完成的运行。",
+      "language": "TypeScript",
+      "stars": 1074,
+      "url": "https://github.com/wide-trace/open-higgsfield"
+    },
+    {
+      "name": "bryllim/workout-guide",
+      "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+      "description_cn": "302 个开放练习插图和一个框架中立的 npm 包，作者：Bryl Lim",
+      "language": "Astro",
+      "stars": 1007,
+      "url": "https://github.com/bryllim/workout-guide"
+    },
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "description_cn": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。",
+      "language": "TypeScript",
+      "stars": 984,
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "name": "Tencent/WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "description_cn": "WeMM-Embedding 是腾讯微信视觉团队推出的一系列通用多模态嵌入模型，支持多模态理解和检索。",
+      "language": "Python",
+      "stars": 912,
+      "url": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
+      "name": "themartiano/try-omarchy",
+      "description": "Run Omarchy on MacOS without any setup.",
+      "description_cn": "无需任何设置即可在 MacOS 上运行 Omarchy。",
+      "language": "Shell",
+      "stars": 895,
+      "url": "https://github.com/themartiano/try-omarchy"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "description_cn": "清除多供应商 AI 水印：清除 Unicode 文本，应用统计重写挂钩，并清除 PNG、JPEG、SVG、PDF、DOCX、HTML 和 MD 中的 C2PA 和元数据。",
+      "language": "Python",
+      "stars": 833,
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    }
+  ]
+}
