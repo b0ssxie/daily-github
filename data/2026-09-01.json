@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-01",
+  "projects": [
+    {
+      "name": "sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "description_cn": "用于可测量、计算机可执行研究的自主研究系统。",
+      "language": "Python",
+      "stars": 5462,
+      "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": "",
+      "description_cn": "",
+      "language": "TeX",
+      "stars": 4197,
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+    },
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "description_cn": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。",
+      "language": "TypeScript",
+      "stars": 1911,
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "description_cn": "适用于任何与 Agent Skills 兼容的代理的 De-AI 编写技能（通过 Skills CLI 达到 77+），并带有 Claude Code、Codex、Grok Build 和 Antigravity 的本机插件。小说的叙事结构修复，专业散文的场地匹配规则。基于 StoryScope (arXiv:2604.03136)。",
+      "language": "",
+      "stars": 1257,
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "description_cn": "🌐 🔌 MetaMask 桌面应用程序可以浏览支持以太坊区块链的网站",
+      "language": "CSS",
+      "stars": 1228,
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    },
+    {
+      "name": "wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "description_cn": "一个用于图像和视频生成的工作室 - 一个提示栏，每个模型自己的设置，以及一个画廊中的每个完成的运行。",
+      "language": "TypeScript",
+      "stars": 1147,
+      "url": "https://github.com/wide-trace/open-higgsfield"
+    },
+    {
+      "name": "Tencent/WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "description_cn": "WeMM-Embedding 是腾讯微信视觉团队推出的一系列通用多模态嵌入模型，支持多模态理解和检索。",
+      "language": "Python",
+      "stars": 1022,
+      "url": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
+      "name": "jub0t/Concat",
+      "description": "Free & Open-Source CapCut replacement. (formerly WolfCut)",
+      "description_cn": "免费开源 CapCut 替换。 （以前称为 WolfCut）",
+      "language": "TypeScript",
+      "stars": 936,
+      "url": "https://github.com/jub0t/Concat"
+    },
+    {
+      "name": "cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "description_cn": "Claude Code 的代理组织，结构为公司 — 超过 15 个部门，超过 125 种技能，每个技能均可独立安装。",
+      "language": "Markdown",
+      "stars": 863,
+      "url": "https://github.com/cbrock84/headcount"
+    },
+    {
+      "name": "tradecatlabs/shulihuazixuecongshu",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 830,
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
+    }
+  ]
+}
