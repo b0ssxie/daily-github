@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-03",
+  "projects": [
+    {
+      "name": "sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "description_cn": "用于可测量、计算机可执行研究的自主研究系统。",
+      "language": "Python",
+      "stars": 6691,
+      "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "name": "crmne/fastpotify",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "description_cn": "Spotify，原生且快速。一款轻量级 Rust 应用程序，适用于 Linux、macOS 和 Windows 上的整个库、本地播放和 Spotify Connect。",
+      "language": "Rust",
+      "stars": 2335,
+      "url": "https://github.com/crmne/fastpotify"
+    },
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "description_cn": "ChatGPT 认为。法典有效。使用 ChatGPT 作为计划大脑，同时保留 Codex 的利用。",
+      "language": "TypeScript",
+      "stars": 2289,
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "description_cn": "适用于任何与 Agent Skills 兼容的代理的 De-AI 编写技能（通过 Skills CLI 达到 77+），并带有 Claude Code、Codex、Grok Build 和 Antigravity 的本机插件。小说的叙事结构修复，专业散文的场地匹配规则。基于 StoryScope (arXiv:2604.03136)。",
+      "language": "Python",
+      "stars": 1624,
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "description_cn": "🌐 🔌 MetaMask 桌面应用程序可以浏览支持以太坊区块链的网站",
+      "language": "CSS",
+      "stars": 1230,
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    },
+    {
+      "name": "damejan80/tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "description_cn": "一个 CLI，可以读取 Claude Code、Codex 和 Gemini CLI 会话日志，并按模型、项目和日期计算出它们的成本。",
+      "language": "Python",
+      "stars": 1148,
+      "url": "https://github.com/damejan80/tokentab"
+    },
+    {
+      "name": "cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "description_cn": "Claude Code 的代理组织，结构为公司 — 超过 15 个部门，超过 125 种技能，每个技能均可独立安装。",
+      "language": "Markdown",
+      "stars": 1121,
+      "url": "https://github.com/cbrock84/headcount"
+    },
+    {
+      "name": "jprx/darwin-vm",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "description_cn": "在 Qemu 中运行 iOS/macOS。支持虚拟 iPhone 17、16、15、14、13、12 和 M5-M1 Apple Si Mac。",
+      "language": "Python",
+      "stars": 952,
+      "url": "https://github.com/jprx/darwin-vm"
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "description_cn": "服装AI赞助商",
+      "language": "Python",
+      "stars": 936,
+      "url": "https://github.com/GangTailorUpgrade/undress-service"
+    },
+    {
+      "name": "tradecatlabs/shulihuazixuecongshu",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 859,
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
+    }
+  ]
+}
