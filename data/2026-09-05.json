@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-05",
+  "projects": [
+    {
+      "name": "lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2131,
+      "url": "https://github.com/lnkiai/m3e-canvas"
+    },
+    {
+      "name": "anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1942,
+      "url": "https://github.com/anthropics/commerce-agents"
+    },
+    {
+      "name": "rakanki911/DLSS5-Swapper",
+      "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1526,
+      "url": "https://github.com/rakanki911/DLSS5-Swapper"
+    },
+    {
+      "name": "shadcn-ui/cn",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1109,
+      "url": "https://github.com/shadcn-ui/cn"
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1060,
+      "url": "https://github.com/GangTailorUpgrade/undress-service"
+    },
+    {
+      "name": "2akouwu/reverify",
+      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 891,
+      "url": "https://github.com/2akouwu/reverify"
+    },
+    {
+      "name": "jlrouzies-fr/DLSS5-Feeder",
+      "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 720,
+      "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder"
+    },
+    {
+      "name": "nahrek/polyledger",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 614,
+      "url": "https://github.com/nahrek/polyledger"
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "description_cn": "Crowdstrike Falcon 0day 权限提升漏洞",
+      "language": "C",
+      "stars": 505,
+      "url": "https://github.com/MSNightmare/FalconFlank"
+    },
+    {
+      "name": "Merserk/dlss5-visual-enhancer",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 491,
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer"
+    }
+  ]
+}
