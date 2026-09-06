@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-06",
+  "projects": [
+    {
+      "name": "lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "description_cn": "在浏览器中绘制 Material 3 富有表现力的屏幕，并将其转变为振动编码提示。",
+      "language": "TypeScript",
+      "stars": 3769,
+      "url": "https://github.com/lnkiai/m3e-canvas"
+    },
+    {
+      "name": "anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "description_cn": "与 Claude 一起构建购物和商业代理的参考蓝图。包括零售、商业、电信和娱乐领域的例子。",
+      "language": "Python",
+      "stars": 2063,
+      "url": "https://github.com/anthropics/commerce-agents"
+    },
+    {
+      "name": "shadcn-ui/cn",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+      "description_cn": "cn 是 Tailwind 类合并和冲突解决的新引擎。它取代了 tailwind-merge 和 clsx。相同的 API。完全平价。而且速度快了 30 倍。",
+      "language": "TypeScript",
+      "stars": 1173,
+      "url": "https://github.com/shadcn-ui/cn"
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "description_cn": "服装AI赞助商",
+      "language": "Python",
+      "stars": 1095,
+      "url": "https://github.com/GangTailorUpgrade/undress-service"
+    },
+    {
+      "name": "2akouwu/reverify",
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "description_cn": "阻止你的人工智能编造事实——它提出，由确定性工具决定，每一个主张都根据事实与证据进行检查。扎根的事实和背景在重置后仍然存在。逆向工程是试验场。 MCP 服务器 + CLI。",
+      "language": "Python",
+      "stars": 924,
+      "url": "https://github.com/2akouwu/reverify"
+    },
+    {
+      "name": "yczz/oc-english",
+      "description": "养成类游戏英语学习",
+      "description_cn": "发展类游戏英语学习",
+      "language": "JavaScript",
+      "stars": 823,
+      "url": "https://github.com/yczz/oc-english"
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "description": "",
+      "description_cn": "",
+      "language": "Lean",
+      "stars": 704,
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "description_cn": "在 AMD GPU 上运行 DLSS 5 神经渲染。魔法！",
+      "language": "",
+      "stars": 660,
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
+    },
+    {
+      "name": "nahrek/polyledger",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
+      "description_cn": "可恢复的 Polymarket 索引器：CLOB 市场元数据以及来自 Polygon 的链上交易，在一个 DuckDB 文件中，您可以使用 SQL 查询",
+      "language": "Python",
+      "stars": 620,
+      "url": "https://github.com/nahrek/polyledger"
+    },
+    {
+      "name": "Merserk/dlss5-visual-enhancer",
+      "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
+      "description_cn": "具有帧插值功能的 DLSS 5 神经视频和图像增强器",
+      "language": "Python",
+      "stars": 546,
+      "url": "https://github.com/Merserk/dlss5-visual-enhancer"
+    }
+  ]
+}
