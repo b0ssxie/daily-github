@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-10",
+  "projects": [
+    {
+      "name": "ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "description_cn": "开源 3D 解剖浏览器：2,234 个可选择的 BodyParts3D 网格、系统层、搜索和分解视图。",
+      "language": "TypeScript",
+      "stars": 2867,
+      "url": "https://github.com/ashemag/human-atlas"
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+      "description_cn": "开源人工智能品牌知名度和竞争对手报告。官网：https://niubigeo.ai/|付费服务：AI真人测试、GEO优化。定价：https://niubigeo.ai/pricing",
+      "language": "TypeScript",
+      "stars": 2258,
+      "url": "https://github.com/Albert-Weasker/niubigeo"
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "description_cn": "本地优先的微信智能系统，具有只读 CLI、Codex 技能、可搜索聊天记录、每日简报、跟进和机会跟踪。",
+      "language": "Python",
+      "stars": 2033,
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+    },
+    {
+      "name": "openai/NavierStokesAndEuler",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "description_cn": "伴随纳维-斯托克斯和欧拉结果的精益证书",
+      "language": "Lean",
+      "stars": 1578,
+      "url": "https://github.com/openai/NavierStokesAndEuler"
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "description_cn": "一款 macOS 应用，将 Claude Code、Cursor、Codex 和 Antigravity 的使用限制固定到屏幕边缘。",
+      "language": "Swift",
+      "stars": 1289,
+      "url": "https://github.com/vinzdg/codenotch"
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "description_cn": "将用户的描述或上传的参考转化为完成的、可编辑的 Blender 卡和交互式 Three.js 页面。保留所要求的主题、风格、排版和目的地。该技能仅包含代码和文本；生成的艺术作品属于用户的输出项目。",
+      "language": "Python",
+      "stars": 1249,
+      "url": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "description": "",
+      "description_cn": "",
+      "language": "Lean",
+      "stars": 1001,
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "description_cn": "在 AMD GPU 上运行 DLSS 5 神经渲染。魔法！",
+      "language": "",
+      "stars": 982,
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 890,
+      "url": "https://github.com/kajisho5/ffmpeg-skill"
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "description": "Take a photo of real objects, and paste them in Blender",
+      "description_cn": "拍摄真实物体的照片，并将其粘贴到 Blender 中",
+      "language": "JavaScript",
+      "stars": 790,
+      "url": "https://github.com/ahujasid/camera-to-blender"
+    }
+  ]
+}
