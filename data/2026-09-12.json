@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-12",
+  "projects": [
+    {
+      "name": "ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3214,
+      "url": "https://github.com/ashemag/human-atlas"
+    },
+    {
+      "name": "sdli1995/dlssg_for_sm86",
+      "description": "Here is a dlssg for RTX30 Series GPU ",
+      "description_cn": "",
+      "language": "",
+      "stars": 1819,
+      "url": "https://github.com/sdli1995/dlssg_for_sm86"
+    },
+    {
+      "name": "openai/NavierStokesAndEuler",
+      "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "description_cn": "",
+      "language": "Lean",
+      "stars": 1780,
+      "url": "https://github.com/openai/NavierStokesAndEuler"
+    },
+    {
+      "name": "yang0/handraw-style",
+      "description": "手绘风格编号画廊与双语提示词 Skill",
+      "description_cn": "手指风格编号画廊与双语提示词技能",
+      "language": "HTML",
+      "stars": 1499,
+      "url": "https://github.com/yang0/handraw-style"
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1473,
+      "url": "https://github.com/vinzdg/codenotch"
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "description_cn": "将用户的描述或上传的参考转化为完成的、可编辑的 Blender 卡和交互式 Three.js 页面。保留所要求的主题、风格、排版和目的地。该技能仅包含代码和文本；生成的艺术作品属于用户的输出项目。",
+      "language": "Python",
+      "stars": 1448,
+      "url": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "name": "Edge0-AI/Edge0",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1358,
+      "url": "https://github.com/Edge0-AI/Edge0"
+    },
+    {
+      "name": "donvito/codex-astra-luna-orchestrator",
+      "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "description_cn": "在 Codex 中使用 Astra 作为协调器，使用 Luna 作为子代理",
+      "language": "Python",
+      "stars": 988,
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator"
+    },
+    {
+      "name": "Vincentwei1021/anything2explainer",
+      "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 955,
+      "url": "https://github.com/Vincentwei1021/anything2explainer"
+    },
+    {
+      "name": "Faizpi/bank-sampah",
+      "description": "",
+      "description_cn": "",
+      "language": "PHP",
+      "stars": 919,
+      "url": "https://github.com/Faizpi/bank-sampah"
+    }
+  ]
+}
