@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-17",
+  "projects": [
+    {
+      "name": "ai-sucks-butt/ai-sucks-butt",
+      "description": "If you think AI sucks, star the repo.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1930,
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+    },
+    {
+      "name": "Chuloo/mural",
+      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 1266,
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "name": "sumimakito/Mac-Duo",
+      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 949,
+      "url": "https://github.com/sumimakito/Mac-Duo"
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 862,
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "name": "kruzovic7/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 827,
+      "url": "https://github.com/kruzovic7/ai-data-extractor"
+    },
+    {
+      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "description_cn": "",
+      "language": "",
+      "stars": 783,
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    },
+    {
+      "name": "unstablebuild/rune",
+      "description": "the development environment for pros",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 753,
+      "url": "https://github.com/unstablebuild/rune"
+    },
+    {
+      "name": "angusdevgo/IDM_Pro_Tool",
+      "description": "IDM激活与状态维护工具",
+      "description_cn": "",
+      "language": "C#",
+      "stars": 721,
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+    },
+    {
+      "name": "nftechie/stonkfly",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 721,
+      "url": "https://github.com/nftechie/stonkfly"
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 709,
+      "url": "https://github.com/eternityspring/reelbench-skills"
+    }
+  ]
+}
