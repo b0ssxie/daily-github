@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-18",
+  "projects": [
+    {
+      "name": "browser-use/jev-ultrafast",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2593,
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "name": "Chuloo/mural",
+      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 1322,
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "name": "TheoLeeCJ/openjev",
+      "description": "Can we run something like Jev on a 3090 at home?",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 894,
+      "url": "https://github.com/TheoLeeCJ/openjev"
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 873,
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "name": "kruzovic7/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 836,
+      "url": "https://github.com/kruzovic7/ai-data-extractor"
+    },
+    {
+      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "description_cn": "",
+      "language": "",
+      "stars": 835,
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    },
+    {
+      "name": "agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 754,
+      "url": "https://github.com/agentverse-os/AgentVerse-OS"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 733,
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 730,
+      "url": "https://github.com/eternityspring/reelbench-skills"
+    },
+    {
+      "name": "vinnylarouge/jevlike",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 708,
+      "url": "https://github.com/vinnylarouge/jevlike"
+    }
+  ]
+}
