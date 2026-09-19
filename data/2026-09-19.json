@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-19",
+  "projects": [
+    {
+      "name": "browser-use/jev-ultrafast",
+      "description": "i. am. speed.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 5771,
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3375,
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1622,
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "name": "Chuloo/mural",
+      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 1364,
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "name": "mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1103,
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "name": "vinnylarouge/jevlike",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 900,
+      "url": "https://github.com/vinnylarouge/jevlike"
+    },
+    {
+      "name": "jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 899,
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 879,
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "name": "agentverse-os/AgentVerse-OS",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 866,
+      "url": "https://github.com/agentverse-os/AgentVerse-OS"
+    },
+    {
+      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "description_cn": "",
+      "language": "",
+      "stars": 859,
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    }
+  ]
+}
