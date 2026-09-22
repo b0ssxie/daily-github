@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-22",
+  "projects": [
+    {
+      "name": "browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 16199,
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 11266,
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 6027,
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "name": "zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 5826,
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
+      "name": "robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 4465,
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 4118,
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3333,
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2591,
+      "url": "https://github.com/jaredpalmer/kev"
+    },
+    {
+      "name": "mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2398,
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "name": "jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1876,
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    }
+  ]
+}
