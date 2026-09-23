@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-23",
+  "projects": [
+    {
+      "name": "browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 18255,
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 17212,
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "name": "zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 6354,
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 6350,
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 5542,
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "name": "robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 4940,
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 4501,
+      "url": "https://github.com/jaredpalmer/kev"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 4206,
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+    },
+    {
+      "name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3887,
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "name": "Mak5er/AirCard",
+      "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 2898,
+      "url": "https://github.com/Mak5er/AirCard"
+    }
+  ]
+}
