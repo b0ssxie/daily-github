@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-24",
+  "projects": [
+    {
+      "name": "NandhaKishorM/laya",
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 20855,
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 6602,
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "name": "zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 6571,
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
+      "name": "jaredpalmer/kev",
+      "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 6133,
+      "url": "https://github.com/jaredpalmer/kev"
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 6005,
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 5358,
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+    },
+    {
+      "name": "TianyuCodings/NanoJev",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2130,
+      "url": "https://github.com/TianyuCodings/NanoJev"
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "description": "Async-first agent harness",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1753,
+      "url": "https://github.com/unreallabsai/unreal-agent"
+    },
+    {
+      "name": "bespokelabsai/nimble",
+      "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1695,
+      "url": "https://github.com/bespokelabsai/nimble"
+    },
+    {
+      "name": "yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1518,
+      "url": "https://github.com/yibie/awesome-jev"
+    }
+  ]
+}
