@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-26",
+  "projects": [
+    {
+      "name": "zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 6782,
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 6524,
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 6351,
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "description": "Async-first agent harness",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1941,
+      "url": "https://github.com/unreallabsai/unreal-agent"
+    },
+    {
+      "name": "driceroland/Search",
+      "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1866,
+      "url": "https://github.com/driceroland/Search"
+    },
+    {
+      "name": "mizorewww/laya-coreml",
+      "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1470,
+      "url": "https://github.com/mizorewww/laya-coreml"
+    },
+    {
+      "name": "newliver666/apk-reverse",
+      "description": "Suitable for Android APK reverse engineering analysis",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1468,
+      "url": "https://github.com/newliver666/apk-reverse"
+    },
+    {
+      "name": "Contrastive-LM/CLM",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1292,
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "description_cn": "",
+      "language": "Markdown",
+      "stars": 1165,
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
+    },
+    {
+      "name": "deepopen-com/deepopen",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1021,
+      "url": "https://github.com/deepopen-com/deepopen"
+    }
+  ]
+}
