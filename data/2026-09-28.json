@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-28",
+  "projects": [
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 6802,
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "description": "Async-first agent harness",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1995,
+      "url": "https://github.com/unreallabsai/unreal-agent"
+    },
+    {
+      "name": "Contrastive-LM/CLM",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1970,
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "name": "tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1655,
+      "url": "https://github.com/tobi/disktree"
+    },
+    {
+      "name": "yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1302,
+      "url": "https://github.com/yetone/magpie"
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1280,
+      "url": "https://github.com/JohnHeibel/PDoomVideo"
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1269,
+      "url": "https://github.com/mexicat/pdoom-video"
+    },
+    {
+      "name": "deepopen-com/deepopen",
+      "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1044,
+      "url": "https://github.com/deepopen-com/deepopen"
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1015,
+      "url": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "name": "kryvora-network/kryvora-node",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 979,
+      "url": "https://github.com/kryvora-network/kryvora-node"
+    }
+  ]
+}
