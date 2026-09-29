@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-29",
+  "projects": [
+    {
+      "name": "Contrastive-LM/CLM",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2318,
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "name": "tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1835,
+      "url": "https://github.com/tobi/disktree"
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1807,
+      "url": "https://github.com/mexicat/pdoom-video"
+    },
+    {
+      "name": "yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1682,
+      "url": "https://github.com/yetone/magpie"
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1489,
+      "url": "https://github.com/dzhng/jevgrep"
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1450,
+      "url": "https://github.com/JohnHeibel/PDoomVideo"
+    },
+    {
+      "name": "KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1296,
+      "url": "https://github.com/KKKKhazix/AIHOT"
+    },
+    {
+      "name": "Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 1160,
+      "url": "https://github.com/Niko1221/Strata"
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1054,
+      "url": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "name": "kryvora-network/kryvora-node",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1048,
+      "url": "https://github.com/kryvora-network/kryvora-node"
+    }
+  ]
+}
