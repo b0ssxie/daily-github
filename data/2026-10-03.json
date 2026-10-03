@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-03",
+  "projects": [
+    {
+      "name": "KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 4997,
+      "url": "https://github.com/KKKKhazix/AIHOT"
+    },
+    {
+      "name": "Louis-CFM/coucou",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 3018,
+      "url": "https://github.com/Louis-CFM/coucou"
+    },
+    {
+      "name": "feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2522,
+      "url": "https://github.com/feder-cr/dots"
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2193,
+      "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2072,
+      "url": "https://github.com/dzhng/jevgrep"
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1567,
+      "url": "https://github.com/CopilotKit/OpenDots"
+    },
+    {
+      "name": "kaankiziltug/logo-design-skill",
+      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 1553,
+      "url": "https://github.com/kaankiziltug/logo-design-skill"
+    },
+    {
+      "name": "yihui-dev/awesome-opus5-5-videos",
+      "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "description_cn": "",
+      "language": "",
+      "stars": 1443,
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1356,
+      "url": "https://github.com/feitangyuan/onetake"
+    },
+    {
+      "name": "firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1327,
+      "url": "https://github.com/firelex/jeff"
+    }
+  ]
+}
