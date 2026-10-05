@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-05",
+  "projects": [
+    {
+      "name": "KKKKhazix/AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 5825,
+      "url": "https://github.com/KKKKhazix/AIHOT"
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3281,
+      "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3253,
+      "url": "https://github.com/CopilotKit/OpenDots"
+    },
+    {
+      "name": "feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2605,
+      "url": "https://github.com/feder-cr/dots"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1417,
+      "url": "https://github.com/nanaism/yomiyasu"
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "description": "",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 1395,
+      "url": "https://github.com/wy51ai/floorplan-3d"
+    },
+    {
+      "name": "firelex/jeff",
+      "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1374,
+      "url": "https://github.com/firelex/jeff"
+    },
+    {
+      "name": "edenfunf/reelmimic",
+      "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1275,
+      "url": "https://github.com/edenfunf/reelmimic"
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "description_cn": "",
+      "language": "C",
+      "stars": 1238,
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1127,
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    }
+  ]
+}
