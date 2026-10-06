@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-06",
+  "projects": [
+    {
+      "name": "rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3917,
+      "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3720,
+      "url": "https://github.com/CopilotKit/OpenDots"
+    },
+    {
+      "name": "feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2620,
+      "url": "https://github.com/feder-cr/dots"
+    },
+    {
+      "name": "storytold/photocraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2240,
+      "url": "https://github.com/storytold/photocraft"
+    },
+    {
+      "name": "omlahore/RemoveMacAI",
+      "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 2238,
+      "url": "https://github.com/omlahore/RemoveMacAI"
+    },
+    {
+      "name": "nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1885,
+      "url": "https://github.com/nykooi1/vibe-wise"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1540,
+      "url": "https://github.com/nanaism/yomiyasu"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1520,
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1491,
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "description_cn": "",
+      "language": "C",
+      "stars": 1456,
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    }
+  ]
+}
