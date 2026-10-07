@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-07",
+  "projects": [
+    {
+      "name": "storytold/photocraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 8455,
+      "url": "https://github.com/storytold/photocraft"
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 4703,
+      "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "name": "openai/math",
+      "description": "",
+      "description_cn": "",
+      "language": "Lean",
+      "stars": 3843,
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "name": "storytold/filmcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1865,
+      "url": "https://github.com/storytold/filmcraft"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1826,
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1648,
+      "url": "https://github.com/nanaism/yomiyasu"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1592,
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "description_cn": "",
+      "language": "C",
+      "stars": 1574,
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "name": "storytold/lightcraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1440,
+      "url": "https://github.com/storytold/lightcraft"
+    },
+    {
+      "name": "deadinside28/bloodborne_pc",
+      "description": "",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 1315,
+      "url": "https://github.com/deadinside28/bloodborne_pc"
+    }
+  ]
+}
