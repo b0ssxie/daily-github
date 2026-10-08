@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-08",
+  "projects": [
+    {
+      "name": "openai/math",
+      "description": "",
+      "description_cn": "",
+      "language": "Lean",
+      "stars": 10195,
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 2137,
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1857,
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "name": "storytold/effectcraft",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1807,
+      "url": "https://github.com/storytold/effectcraft"
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "description_cn": "",
+      "language": "C",
+      "stars": 1682,
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "name": "deadinside28/bloodborne_pc",
+      "description": "",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 1679,
+      "url": "https://github.com/deadinside28/bloodborne_pc"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1641,
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "name": "lucasmarkes/hairline",
+      "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1138,
+      "url": "https://github.com/lucasmarkes/hairline"
+    },
+    {
+      "name": "storytold/designcraft",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1062,
+      "url": "https://github.com/storytold/designcraft"
+    },
+    {
+      "name": "mizorewww/x_gift_bot",
+      "description": "X Premium gift CLI and redemption site",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 981,
+      "url": "https://github.com/mizorewww/x_gift_bot"
+    }
+  ]
+}
