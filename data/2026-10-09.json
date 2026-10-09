@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-09",
+  "projects": [
+    {
+      "name": "openai/math",
+      "description": "",
+      "description_cn": "",
+      "language": "Lean",
+      "stars": 12330,
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 2562,
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 2368,
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "description_cn": "",
+      "language": "C",
+      "stars": 1820,
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1659,
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1295,
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1128,
+      "url": "https://github.com/Jakeschincariol/replica-skill"
+    },
+    {
+      "name": "mizorewww/x_gift_bot",
+      "description": "X Premium gift CLI and redemption site",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1090,
+      "url": "https://github.com/mizorewww/x_gift_bot"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1075,
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "alejandrobujan/tendedero",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1057,
+      "url": "https://github.com/alejandrobujan/tendedero"
+    }
+  ]
+}
