@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-10",
+  "projects": [
+    {
+      "name": "openai/math",
+      "description": "",
+      "description_cn": "",
+      "language": "Lean",
+      "stars": 13203,
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 2960,
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 2405,
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2046,
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "name": "zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2019,
+      "url": "https://github.com/zhongerxin/iPhone-use"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1979,
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "description": "",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1677,
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "name": "LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1556,
+      "url": "https://github.com/LosaLosSantos/aurelio-finance"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1432,
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1414,
+      "url": "https://github.com/Jakeschincariol/replica-skill"
+    }
+  ]
+}
