@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-14",
+  "projects": [
+    {
+      "name": "storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 11303,
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 8451,
+      "url": "https://github.com/wheresryan22/anatomy"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 4505,
+      "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 4286,
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 3920,
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "storytold/deckcraft",
+      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 3001,
+      "url": "https://github.com/storytold/deckcraft"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2916,
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "name": "storytold/soundcraft",
+      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2606,
+      "url": "https://github.com/storytold/soundcraft"
+    },
+    {
+      "name": "t4t5/omdrop-owl",
+      "description": "airdrop for non-apple devices",
+      "description_cn": "",
+      "language": "Shell",
+      "stars": 2597,
+      "url": "https://github.com/t4t5/omdrop-owl"
+    },
+    {
+      "name": "ARahim3/DigUp",
+      "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 2581,
+      "url": "https://github.com/ARahim3/DigUp"
+    }
+  ]
+}
