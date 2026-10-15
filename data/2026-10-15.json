@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-15",
+  "projects": [
+    {
+      "name": "wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 10716,
+      "url": "https://github.com/wheresryan22/anatomy"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 4125,
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "ARahim3/DigUp",
+      "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 3718,
+      "url": "https://github.com/ARahim3/DigUp"
+    },
+    {
+      "name": "t4t5/omdrop-owl",
+      "description": "airdrop for non-apple devices",
+      "description_cn": "",
+      "language": "Shell",
+      "stars": 2686,
+      "url": "https://github.com/t4t5/omdrop-owl"
+    },
+    {
+      "name": "storytold/craft-launcher",
+      "description": "The Craft App Launcher",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2680,
+      "url": "https://github.com/storytold/craft-launcher"
+    },
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "description_cn": "",
+      "language": "C",
+      "stars": 2281,
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+    },
+    {
+      "name": "liseami/CCBaga",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2263,
+      "url": "https://github.com/liseami/CCBaga"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 2130,
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2058,
+      "url": "https://github.com/noahdunnagan/fsearch"
+    },
+    {
+      "name": "T-Auto/dsh-ops",
+      "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1728,
+      "url": "https://github.com/T-Auto/dsh-ops"
+    }
+  ]
+}
