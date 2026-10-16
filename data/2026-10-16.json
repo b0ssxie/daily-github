@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-16",
+  "projects": [
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "description_cn": "",
+      "language": "C",
+      "stars": 3234,
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+    },
+    {
+      "name": "storytold/craft-launcher",
+      "description": "The Craft App Launcher",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2890,
+      "url": "https://github.com/storytold/craft-launcher"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 2551,
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+    },
+    {
+      "name": "liseami/CCBaga",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2351,
+      "url": "https://github.com/liseami/CCBaga"
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2106,
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+    },
+    {
+      "name": "storytold/figcraft",
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1441,
+      "url": "https://github.com/storytold/figcraft"
+    },
+    {
+      "name": "HeyPuter/everything",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1349,
+      "url": "https://github.com/HeyPuter/everything"
+    },
+    {
+      "name": "shaongitbd/doory",
+      "description": "Open source canva alternative",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1331,
+      "url": "https://github.com/shaongitbd/doory"
+    },
+    {
+      "name": "opengeos/RustGIS",
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1230,
+      "url": "https://github.com/opengeos/RustGIS"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "description_cn": "",
+      "language": "C#",
+      "stars": 1220,
+      "url": "https://github.com/ahwootech/BRUTAL"
+    }
+  ]
+}
