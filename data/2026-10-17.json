@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-17",
+  "projects": [
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "description_cn": "",
+      "language": "C",
+      "stars": 3548,
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 2879,
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2538,
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+    },
+    {
+      "name": "liseami/CCBaga",
+      "description": "",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 2408,
+      "url": "https://github.com/liseami/CCBaga"
+    },
+    {
+      "name": "HeyPuter/everything",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1763,
+      "url": "https://github.com/HeyPuter/everything"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "description_cn": "",
+      "language": "C#",
+      "stars": 1586,
+      "url": "https://github.com/ahwootech/BRUTAL"
+    },
+    {
+      "name": "chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1577,
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "name": "deeplethe/solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1443,
+      "url": "https://github.com/deeplethe/solid-glass"
+    },
+    {
+      "name": "shaongitbd/doory",
+      "description": "Open source canva alternative",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1432,
+      "url": "https://github.com/shaongitbd/doory"
+    },
+    {
+      "name": "opengeos/RustGIS",
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1366,
+      "url": "https://github.com/opengeos/RustGIS"
+    }
+  ]
+}
