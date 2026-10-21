@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-21",
+  "projects": [
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 13985,
+      "url": "https://github.com/deepseek-ai/DeepInfer"
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "description_cn": "",
+      "language": "Java",
+      "stars": 12809,
+      "url": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "description": "",
+      "description_cn": "",
+      "language": "C",
+      "stars": 2952,
+      "url": "https://github.com/ly05010419/MacNativeGames"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "description_cn": "",
+      "language": "C#",
+      "stars": 2065,
+      "url": "https://github.com/ahwootech/BRUTAL"
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1972,
+      "url": "https://github.com/Leonxlnx/earshot"
+    },
+    {
+      "name": "simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "description_cn": "",
+      "language": "Java",
+      "stars": 1915,
+      "url": "https://github.com/simbasjungles/free-my-tv"
+    },
+    {
+      "name": "chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1853,
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 1730,
+      "url": "https://github.com/Supermedo/uncharted_pc"
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1650,
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1290,
+      "url": "https://github.com/Caho1/open-claude-ui"
+    }
+  ]
+}
