@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-23",
+  "projects": [
+    {
+      "name": "Gathin23/cleanyourtv",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "description_cn": "",
+      "language": "Java",
+      "stars": 24656,
+      "url": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 20094,
+      "url": "https://github.com/deepseek-ai/DeepInfer"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "description": "",
+      "description_cn": "",
+      "language": "C",
+      "stars": 4547,
+      "url": "https://github.com/ly05010419/MacNativeGames"
+    },
+    {
+      "name": "simbasjungles/free-my-tv",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "description_cn": "",
+      "language": "Java",
+      "stars": 3508,
+      "url": "https://github.com/simbasjungles/free-my-tv"
+    },
+    {
+      "name": "pengchujin/aerial-tv",
+      "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 3271,
+      "url": "https://github.com/pengchujin/aerial-tv"
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2253,
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+    },
+    {
+      "name": "tek-sys-hub/Rubix-lang",
+      "description": "The 100% Pure x86-64 Assembly Systems Language",
+      "description_cn": "",
+      "language": "Assembly",
+      "stars": 1904,
+      "url": "https://github.com/tek-sys-hub/Rubix-lang"
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1560,
+      "url": "https://github.com/ikow/php2shell-poc"
+    },
+    {
+      "name": "JoasASantos/REA-Prompts",
+      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "description_cn": "",
+      "language": "",
+      "stars": 1495,
+      "url": "https://github.com/JoasASantos/REA-Prompts"
+    },
+    {
+      "name": "OpenMOSS/MOSS-Image",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1483,
+      "url": "https://github.com/OpenMOSS/MOSS-Image"
+    }
+  ]
+}
