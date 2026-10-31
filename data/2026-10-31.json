@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-31",
+  "projects": [
+    {
+      "name": "unclebob/ub-mode",
+      "description": "",
+      "description_cn": "",
+      "language": "",
+      "stars": 5439,
+      "url": "https://github.com/unclebob/ub-mode"
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 5134,
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 4082,
+      "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "name": "interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3890,
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3403,
+      "url": "https://github.com/designfuchen/word-atlas"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "description_cn": "",
+      "language": "Dart",
+      "stars": 2737,
+      "url": "https://github.com/ccch1mneyyy/dsh-Go"
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2479,
+      "url": "https://github.com/t3dotgg/tstack"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 1741,
+      "url": "https://github.com/valentderah/totk-pc-recomp"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 1627,
+      "url": "https://github.com/wangzan101/Mika"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1560,
+      "url": "https://github.com/andyhuo520/digital-human-koubo"
+    }
+  ]
+}
