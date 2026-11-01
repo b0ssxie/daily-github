@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-01",
+  "projects": [
+    {
+      "name": "unclebob/ub-mode",
+      "description": "",
+      "description_cn": "",
+      "language": "",
+      "stars": 5878,
+      "url": "https://github.com/unclebob/ub-mode"
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 4786,
+      "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "name": "interplains/Zero-Breach-Toolkit",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 4016,
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "description_cn": "",
+      "language": "Dart",
+      "stars": 3767,
+      "url": "https://github.com/ccch1mneyyy/dsh-Go"
+    },
+    {
+      "name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 3696,
+      "url": "https://github.com/heydamir/unslop"
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3584,
+      "url": "https://github.com/designfuchen/word-atlas"
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3509,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 2919,
+      "url": "https://github.com/wangzan101/Mika"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 2707,
+      "url": "https://github.com/valentderah/totk-pc-recomp"
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1763,
+      "url": "https://github.com/paipiange/nvzhuang"
+    }
+  ]
+}
