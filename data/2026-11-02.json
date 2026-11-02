@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-02",
+  "projects": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 9106,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 5232,
+      "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 5049,
+      "url": "https://github.com/heydamir/unslop"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 4217,
+      "url": "https://github.com/wangzan101/Mika"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 3314,
+      "url": "https://github.com/valentderah/totk-pc-recomp"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 2830,
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 2076,
+      "url": "https://github.com/Djihads80/Eglantine"
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1925,
+      "url": "https://github.com/paipiange/nvzhuang"
+    },
+    {
+      "name": "haydenschmitty/floorplan",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1872,
+      "url": "https://github.com/haydenschmitty/floorplan"
+    },
+    {
+      "name": "aschmelyun/print-my-profile-pic",
+      "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "description_cn": "",
+      "language": "",
+      "stars": 1704,
+      "url": "https://github.com/aschmelyun/print-my-profile-pic"
+    }
+  ]
+}
