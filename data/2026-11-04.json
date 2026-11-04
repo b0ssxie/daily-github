@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-04",
+  "projects": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 17328,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 8993,
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 7681,
+      "url": "https://github.com/heydamir/unslop"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 6174,
+      "url": "https://github.com/wangzan101/Mika"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 4578,
+      "url": "https://github.com/valentderah/totk-pc-recomp"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 4235,
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "BryceYuuu/RUN",
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3233,
+      "url": "https://github.com/BryceYuuu/RUN"
+    },
+    {
+      "name": "Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 3131,
+      "url": "https://github.com/Djihads80/Eglantine"
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 2139,
+      "url": "https://github.com/paipiange/nvzhuang"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 1820,
+      "url": "https://github.com/Verlintas/NOIR"
+    }
+  ]
+}
