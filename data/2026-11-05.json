@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-05",
+  "projects": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 18806,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 12682,
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 8851,
+      "url": "https://github.com/heydamir/unslop"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 6766,
+      "url": "https://github.com/wangzan101/Mika"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "description_cn": "",
+      "language": "C",
+      "stars": 4914,
+      "url": "https://github.com/valentderah/totk-pc-recomp"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 4838,
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 3848,
+      "url": "https://github.com/Djihads80/Eglantine"
+    },
+    {
+      "name": "BryceYuuu/RUN",
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3738,
+      "url": "https://github.com/BryceYuuu/RUN"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2763,
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 2223,
+      "url": "https://github.com/paipiange/nvzhuang"
+    }
+  ]
+}
