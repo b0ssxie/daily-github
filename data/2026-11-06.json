@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-06",
+  "projects": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 19712,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 15723,
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 5359,
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3359,
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "zortos293/Lichii",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 2587,
+      "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 2572,
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2548,
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "elvarofficial/teardown",
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 2239,
+      "url": "https://github.com/elvarofficial/teardown"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1992,
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1880,
+      "url": "https://github.com/caru-ini/stack-diagram"
+    }
+  ]
+}
