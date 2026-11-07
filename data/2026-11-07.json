@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-07",
+  "projects": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 20357,
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 18517,
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "zortos293/Lichii",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 4161,
+      "url": "https://github.com/zortos293/Lichii"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3742,
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2922,
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "description_cn": "",
+      "language": "Kotlin",
+      "stars": 2792,
+      "url": "https://github.com/Verlintas/NOIR"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 2171,
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2050,
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1980,
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "description": "YellowFruit third-party client",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1792,
+      "url": "https://github.com/Minireel/HGhub"
+    }
+  ]
+}
