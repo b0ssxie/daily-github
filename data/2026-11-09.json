@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-09",
+  "projects": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 4158,
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "description": "YellowFruit third-party client",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 3778,
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 3321,
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 3284,
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 2417,
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "description": "",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1880,
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1646,
+      "url": "https://github.com/sarpstar/cinecode"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "description": "",
+      "description_cn": "",
+      "language": "C",
+      "stars": 1481,
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "description": "3D modeling in Python, built for LLMs.",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 1461,
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "name": "livliv-dev/player",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1348,
+      "url": "https://github.com/livliv-dev/player"
+    }
+  ]
+}
