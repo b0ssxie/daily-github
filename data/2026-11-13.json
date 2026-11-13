@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-13",
+  "projects": [
+    {
+      "name": "huamidev/GestaltX",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 7021,
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "description": "",
+      "description_cn": "",
+      "language": "C",
+      "stars": 3623,
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "description_cn": "",
+      "language": "C#",
+      "stars": 2792,
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "description": "",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 2106,
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "DIYgod/pinky",
+      "description": "Let AI agents use your phone, with you in the loop.",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 2025,
+      "url": "https://github.com/DIYgod/pinky"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1747,
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1341,
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1231,
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "name": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 1212,
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor"
+    },
+    {
+      "name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "description_cn": "",
+      "language": "HTML",
+      "stars": 1209,
+      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio"
+    }
+  ]
+}
