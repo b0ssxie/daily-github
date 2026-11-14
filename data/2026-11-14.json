@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-14",
+  "projects": [
+    {
+      "name": "huamidev/GestaltX",
+      "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 7395,
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "description": "",
+      "description_cn": "",
+      "language": "C",
+      "stars": 3947,
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "description_cn": "",
+      "language": "C#",
+      "stars": 2889,
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1956,
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 1535,
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1453,
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1354,
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 1318,
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "HolyArrs/HolyArrs",
+      "description": "One self-hosted app for your shows, movies and music.",
+      "description_cn": "",
+      "language": "Go",
+      "stars": 1109,
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1078,
+      "url": "https://github.com/Th0rgal/satmux"
+    }
+  ]
+}
