@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-22",
+  "projects": [
+    {
+      "name": "erkamyaman/rust-anything",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 7529,
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "name": "ItsNotRexed/Leonida",
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 7198,
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "description_cn": "",
+      "language": "C++",
+      "stars": 5871,
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "description_cn": "",
+      "language": "",
+      "stars": 2637,
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "gylive/google-ultra",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2612,
+      "url": "https://github.com/gylive/google-ultra"
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2237,
+      "url": "https://github.com/Hut-hzf/ung220z-tool"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1785,
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "sybil-solutions/inference-optimisation-skill",
+      "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1742,
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+    },
+    {
+      "name": "joshpuckett/allo",
+      "description": "Allo is your friendly neighborhood typeface, free and open source",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1382,
+      "url": "https://github.com/joshpuckett/allo"
+    },
+    {
+      "name": "hatsunemiku-ai/google-one-tools",
+      "description": "",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1119,
+      "url": "https://github.com/hatsunemiku-ai/google-one-tools"
+    }
+  ]
+}
