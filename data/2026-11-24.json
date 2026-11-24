@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-24",
+  "projects": [
+    {
+      "name": "Marvisak/VIctory",
+      "description": "An attempt at running GTA VI on PC",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 6430,
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "ivall/xcl",
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 5305,
+      "url": "https://github.com/ivall/xcl"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 3340,
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "description_cn": "",
+      "language": "Objective-C++",
+      "stars": 2619,
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2349,
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1728,
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1710,
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "os6/nospeaker",
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1582,
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "Lemxy/WinRust",
+      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 1415,
+      "url": "https://github.com/Lemxy/WinRust"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 1341,
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    }
+  ]
+}
