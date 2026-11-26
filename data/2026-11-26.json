@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-26",
+  "projects": [
+    {
+      "name": "Marvisak/VIctory",
+      "description": "An attempt at running GTA VI on PC",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 12779,
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "xcl-dev/xcl",
+      "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 8384,
+      "url": "https://github.com/xcl-dev/xcl"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 4524,
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 4053,
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "description_cn": "",
+      "language": "C",
+      "stars": 4025,
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 3156,
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2643,
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2382,
+      "url": "https://github.com/ubiquitarianism/leonida"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 1959,
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "os6/nospeaker",
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1907,
+      "url": "https://github.com/os6/nospeaker"
+    }
+  ]
+}
