@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-28",
+  "projects": [
+    {
+      "name": "Marvisak/VIctory",
+      "description": "An attempt at running GTA VI on PC",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 13877,
+      "url": "https://github.com/Marvisak/VIctory"
+    },
+    {
+      "name": "4lwayz/portwatch-vi",
+      "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "description_cn": "",
+      "language": "JavaScript",
+      "stars": 6870,
+      "url": "https://github.com/4lwayz/portwatch-vi"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 4524,
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "trustno1-coder/VIctory-NVIDIA",
+      "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 4207,
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "description_cn": "",
+      "language": "Rust",
+      "stars": 3366,
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ProjectLeonida/mandy",
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "description_cn": "",
+      "language": "Python",
+      "stars": 2999,
+      "url": "https://github.com/ProjectLeonida/mandy"
+    },
+    {
+      "name": "nexu-io/opengame",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "description_cn": "",
+      "language": "TypeScript",
+      "stars": 2459,
+      "url": "https://github.com/nexu-io/opengame"
+    },
+    {
+      "name": "alesha-pro/llm.asm",
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "description_cn": "",
+      "language": "Assembly",
+      "stars": 2346,
+      "url": "https://github.com/alesha-pro/llm.asm"
+    },
+    {
+      "name": "os6/nospeaker",
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1997,
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "Reukix/Reloc",
+      "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "description_cn": "",
+      "language": "Swift",
+      "stars": 1860,
+      "url": "https://github.com/Reukix/Reloc"
+    }
+  ]
+}
